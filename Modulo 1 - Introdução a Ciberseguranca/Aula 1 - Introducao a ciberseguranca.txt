@@ -1,0 +1,20 @@
+Definição de hacker
+
+Hacker é um indivíduo que tem grande habilidade e conhecimento em computação e tecnologia, e usa essas habilidades para encontrar soluções criativas e inovadoras para problemas relacionados a essas áreas.
+
+Existem os tipos que trabalham para o mal e também temos os que trabalham para o bem, procurando vulnerabilidades de segurançã em sistemas e redes para conseguir proteger melhor as empresas.
+
+existem 3 tipos definidos:
+
+
+* Hackers Éticos(White Hat Hackers):
+
+Esses são os "hackers do bem". Eles usam suas habilidades para identificar vulnerabilidades em sistemas e redes a sim de ajudar as organizações a fortalecer sua segurança.
+
+* Hackers de Chapéu Cinza (Gray Hat Hackers): Esse grupo fica em algum lugar entre os hackers éticos e maliciosos. Eles podem descobrir vulnerabilidades sem autorização, mas, em vez de explorá-las, geralmente notificam a organização afetada para que possam ser corrigidas
+
+* Hackers Maliciosos (Black Hat Hackers): Esses Hackers têm intenções prejudiciais. Eles exploram vulnerabilidades para ganho pessoal, como roubo de informações confidenciais, extorsão ou comprometimento de sistemas para fins maliciosos.
+
+Existem também mais 2 tipos conhecidos:
+
+hacktivistas - que usam suas habilidades em ataques cibernéticos para promover causas que acreditam
