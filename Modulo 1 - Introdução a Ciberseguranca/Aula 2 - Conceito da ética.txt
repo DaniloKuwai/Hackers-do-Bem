@@ -77,7 +77,7 @@ Até aqui você aprendeu que os hackers éticos são profissionais que tem um pa
 
 para se tornar um hacker ético, capaz de identificar com eficiência as possíveis falhas de segurança de um sistema, o profissional precisa ter alguns conhecimentos como:
 
-° sisteams de segurança de computação e internet
+° sistemas de segurança de computação e internet
 
 ° habilidade de alto nível de hacking
 
@@ -89,6 +89,41 @@ O que faz?
 
 As principais atividades de um hacker ético envolvem realizar análises de segurança de um sistema, identificando as possíveis vulnerabilidades para ajudar a construir "muros" mais sólidos de bloqueio e ataques cibernéticos.
 
-Além disso, esses professionais podem realizar testes de penetração a sistemas, simulando ataques, avaliação de vulnerabilidade do acessos aos sistemas das empresas, avaliação de riscos, entre outroas funções que ajudem na proteção de dados.
+Além disso, esses profissionais podem realizar testes de penetração a sistemas, simulando ataques, avaliação de vulnerabilidade do acessos aos sistemas das empresas, avaliação de riscos, entre outroas funções que ajudem na proteção de dados.
 
 
+Vídeo, atividades de um hacker ético
+
+os black hat hackers, normalmente usam da engenharia social para conseguir algum dado sensível para utilizar para conseguir por exemplo vazar alguma informação que auxilie ele na invasão, por exemplo ligando para uma empresa e perguntando algumas informações básicas, ou até mesmo ligando para uma pessoa para obter conhecimento de dados da pessoa.
+
+Então um hacker ético para combater ele tenta inibir a engenharia social, que não são apenas na parte tecnológica, muitas vezes uma simples conversa uma pessoa descobre algum dado importante.
+
+Uma outra questão que eles também atuam é pelo ataque de portas padrões que ficam liberadas, isso um hacker ético consegue bloquear portas padrões e específicas para combater ataques.
+
+Agora conforme o vídeo:
+
+-> Avaliação de risco: Hackers éticos realizam avaliações de risco para identificar riscos potenciais aos sistemas e redes de uma organização e recomendar contramedidas. Isso envolve a análise da probabilidade e impacto de diferentes tipos de ameaças cibernéticas e o desenvolvimento de estratégias para mitigar esses riscos.
+
+-> Auditoria de segurança: Hackers éticos realizam auditoria de segurança para avaliar a postura geral de segurança de uma organização. Isso envolve revisar as políticas e procedimentos de segurança, testar controles e fazer recomendações para melhorias.
+
+-> Pesquisa de segurança: Hackers éticos se envolvem em pesquisas de segurança para identificar novas vulnerabilidades e desenvolver novas ferramentas e técnicas para identificar e lidar com ameaças cibernéticas. Isso ajuda a manter as organizações á frente das ameaças cibernéticas emergentes.
+
+O ciclo PDCA é um método para melhoria contínua de processos e produtos. Ele significa Planejar, Executar, Verificar, Agir. Em termos de cibersgurança, pode ajudar a estabelecer e manter uma segurança efetiva das informações seguindo alguns passos. São eles:
+
+Planejar: Identificar um problema ou objetivo relacionado com a cibersegurança, como criar consciencialização(entendimento) entre equipe, implementar uma nova política de segurança, ou evitar o roubo de dados. Definir os recursos, ações e indicadores que tornarão o seu plano bem-sucedido. Exemplo, concientizar a equipe a não clicar em links desconhecidos.
+
+Executar: Colocar em prática o seu plano e monitorar os Indicadores. Esteja preparado para enfrentar alguns desafios ou problemas inesperados ao longo do caminho. Se possível teste o seu plano em pequena escala antes de aplica-lo a toda a organização.
+
+Verificar: Avaliar os resultados e dados do seu plano. Compará-los com os resultados esperados e ver se há lacunas ou discrepâncias. Identificar as causas raiz de quaisquer problemas e aprender com os erros
+
+Agir: Com base na sua avaliação, decidir se precisa ajustar o plano ou implementá-lo como está. Se precisar fazer alterações, volte á fase de planejamento e repita o ciclo. Se estiver satisfeito com os seus resultados, padronize o seu plano e comunique-o aos seus stakeholders.
+
+
+Conclusão
+
+A ética é um dos maiores requisitos para se tornar um profissional de cibersegurança, pois envolve lidar com informações sensíveis das empresas e dos usuários, bem como previnir e combater crimes cibernéticos. Um hacker ético deve agir de forma responsável e legal, respeitando as normas e os direitos dos outros, e utilizando seus conhecimentos para proteger e melhorar a segurança cibernética.
+
+As principais habilidades de um hacker ético são: conhecimentos técniso sobre sisteams operacionais, redes, protocolos, aplicações, vulnerabilidades e ferramentas de segurança: ter capacidade de análise,raciocínio lógico, criatividade e persistência para encontrar e explorar falhas; ter habilidades de comunicação, escrita concisa e reporte para acariciar os resultados dos testes de invasão e as recomendações de mitigação; e ter atitude pro ativa curiosa e colaborativa para aprender constantemente e compartilhar conhecimentos.
+
+
+A importância de se manter atualizado sobre conceitos de segurança cibernética se deve ao fato de que as ameaças e os riscos são dinâmicos e evoluem rapidamente, exigindo dos profissionais uma adaptação constante ás novas tecnologias, regulamentações e cenários. Além disso, a cibersegurança é uma área multidisciplinar que envolve aspectos técnicos, jurídicos, sociais e éticos, que devem ser considerados na hora de criar soluções inteligentes e eficazes para ambientes cada vez mais conectados.
