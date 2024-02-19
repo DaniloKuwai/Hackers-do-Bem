@@ -1,0 +1,32 @@
+Vírus
+
+Um vírus de computador é um software malicioso que pode ser projetado de diversas maneiras em um computador ou rede e se replica entre sistemas e arquivos,causando danos quem podem afetar o funcionamento do computador ou o roubo de dados sigilosos de uma pessoa física ou empresa.
+
+Conceito
+
+Os vírus podem se espalhar em um computador através de várias maneiras, como em anexos e e-mails falsos, downloads da internet ou em dispositivos removíveis. Existem, também, uma série de vírus que apresentam diferentes características e danos.
+
+Alguns tipos de vírus:
+
+-> Vírus de Arquivo
+
+Anexa-se a arquivos executáveis e se espalha quando esses arquivos são executados.
+
+-> Vírus de Macro
+
+Explora macros em aplicativos como processadores de texto e planilhas para se espalhar.
+
+-> Vírus de boot
+
+Infecta a área de inicialização de um disco rígido, tornando-se ativo quando o computador é inicializado.
+
+-> Worms
+
+Diferente de vírus, os worms não precisam se anexar a arquivos e podem se espalhar automaticamente pela rede.
+
+-> Trojans
+
+Disfarçados como software legítimo, os cavalos de Troia enganam os usuários para que os executem, permitindo o acesso não autorizado ao sistema.
+
+Conceitos iniciais - Virus Worms Phishing Cavalo de troia | Parte 1
+
