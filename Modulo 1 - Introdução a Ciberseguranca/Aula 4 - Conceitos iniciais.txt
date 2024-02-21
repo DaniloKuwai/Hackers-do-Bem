@@ -28,5 +28,106 @@ Diferente de vírus, os worms não precisam se anexar a arquivos e podem se espa
 
 Disfarçados como software legítimo, os cavalos de Troia enganam os usuários para que os executem, permitindo o acesso não autorizado ao sistema.
 
+Vídeo 1
+
 Conceitos iniciais - Virus Worms Phishing Cavalo de troia | Parte 1
 
+Video Conceitos iniciais - Virus Worms Phishing Cavalo de troia | Parte 1
+
+Virus - o que é?
+
+Um vírus de computador é um tipo de software malicioso(malware) que consegue se autorreplicar dentro do computador, em unidades conectadas a ele, via internet e também através de rede local, podendo prejudicar a segurança de dados de uma empresa ou de uma pessoa. Um vírus de computador se liga a outros programas ou arquivos e modifica o seu funcionamento, podendo causar danos ou alterações indesejadas.
+
+Eles são projetados para se esconder e se infiltrar em nossos dispositivos sem o nosso conhecimento, agindo como parasitas digitais. Assim como os vírus biológicos, os vírus de computador precisam de um "hospedeiro" para se propagar e podem ter diferentes graus de severidade.
+
+Existem muitos tipos e exemplos de vírus de computador, cada um com características e objetivos diferentes. Alguns dos mais conhecidos são:
+
+Vírus de boot: infectam a parte do disco rígido responsável pelo início do sistema operacional(o setor de inicialização ou boot). Eles impedem que o computador seja iniciado corretamente ou exibem mensagens falsas ou maliciosas na tela.
+
+Vírus de macro: infectam arquivos que contêm macros, que são sequências de comandos usados para automatizar tarefas em programas como o Microsoft Word ou o Excel. Eles podem alterar ou apagar dados, formatar o disco rígido ou enviar e-mails sem autorização.
+
+Vírus residentes: ficam armazenados na memória do computador e infectam outros programas ou arquivos quando eles são executados. Eles podem afetar o desempenho do sistema, corromper ou apagar dados ou abrir portas para outros malwares. Um exemplo famoso é o Stoned.Angelina, que foi descoberto em 1994 e exibia a mensagem "Your PC is now Stoned!" na tela ao iniciar o computador.
+
+Vírus polimórficos: mudam o seu código a cada vez que se replicam, dificultando a sua detecção pelos antivírus. Eles podem ter diferentes formas de infecção e diferentes efeitos nos sistemas e nos dispositivos. Um exemplo famoso é o Elk Cloner, que foi descoberto em 1982 e é considerado o primeiro vírus de computador da história. Ele infectava disquetes do sistema operacional Apples Dos e exibia um poema na tela a cada 50 vezes que o disquete era inserido.
+
+WannaCry: Lançado em 2017, esse vírus ransomware se espalhou rapidamente por meio de uma vulnerabilidade no sistema operacional Windows. Ele criptografava os arquivos do computador e exigia um pagamento em criptomoedas para liberar o acesso aos dados.
+
+ILOVEYOU: Esse vírus, que apareceu em 2000, se propagava por meio de e-mails com um arquivo anexado chamado "LOVE-LETTER-FOR-YOU.txt.vbs". Ao ser aberto, ele se replicava para todos os contatos da vítima, causando grandes danos.
+
+Stuxnet: Esse vírus foi descoberto em 2010 e tinha como alvo sistemas de controle industrial, especialmente as usinas nucleares do Irã. Ele se infiltrava por meio de dispositivo USB infectados, causando danos físicos reais ás máquinas controladas.
+
+Os vírus de computador podem ser transmitidos de diversas formas, dependendo do tipo e da forma de infecção. Algumas das formas mais comuns são:
+
+Por meio de arquivos ou links suspeitos enviados por e-mail, redes sociais, mensageiros instantâneos ou outros meios de comunicação online. Ao abrir o arquivo ou cilcar no link, o usuário pode baixar e executar o vírus sem perceber.
+
+Por meio de dispositivos removíveis, como pen drives, cartões de memória, CDs ou DVDs, que podem estar infectados por vírus e transferi-los para o computador ao serem conectados ou inseridos.
+
+Por meio de downloads de programas ou arquivos de fontes não confiáveis, como sites piratas, redes P2P ou torrents, que podem conter vírus disfarçados de conteúdos legítimos ou úteis.
+
+
+Por meio de brechas de segurança nos sistemas operacionais, nos navegadores, nos aplicativos ou nos pluguins, que podem permitir a entrada de vírus sem o consentimento ou o conhecimento do usuário.
+
+Como evitar:
+
+Para evitar a infecção por vírus de computador, os usuários devem adotar algumas medidas preventivas, como:
+
+Usar um antivírus atualizado e confiável, que possa detectar e remover os vírus antes que eles causem danos. Ele ajudará a identificar e eliminar vírus em potencial.
+
+Evitar abrir arquivos ou links suspeitos enviados por e-mail, redes sociais, mensageiros instantâneos ou outros meios de comunicação online. Verificar sempre a origem e a veracidade das mensagens e dos remetentes antes de clicar ou baixar qualquer coisa.
+
+Escanear os dispositvios removíveis, como pen drives, cartões de memória, CDs ou DVDs, antes de usa-los no computador. Não conectar ou inserir dispositivos desconhecidos ou duvidosos.
+
+Fazer downloads de programas ou arquivos apenas de fontes confiáveis e verificadas. Não baixar ou instalar conteúdos piratas, ilegais ou duvidosos.
+
+Manter os sistemas operacionais, os navegadores, os aplicativos e os plugins atualizados com as últimas versões e correções de segurança. Não usar versões desatualizadas ou obsoletas que possam conter vulnerabilidades.
+
+Fazer backup dos dados importantes em um dispositivo externo ou em um serviço de nuvem. Assim, em caso de infecção por vírus, é possível recuperar os dados sem perdas ou danos.
+
+Desconfie de e-mails suspeitos: evite abrir e-mails de remetentes desconhecidos ou suspeitos. Não clique em links ou faça download de anexos que pareçam suspeitos, mesmo que pareçam vir de fontes conhecidas.
+
+Conclusão
+
+Os vírus de computador são uma ameaça real e constante no mundo digital. Conhecendo o que são, como eles se propagam e as medidas preventivas que podem adotar, podemos fortalecer a segurança online das pessoas e organizações. Lembre-se de manter-se atualizado sobre as últimas ameaças e práticas de segurança digital. Proteja-se e mantenha seus dispositivos e informações seguros.
+
+TERMOS E CONCEITOS SOBRE AMEAÇAS CIBERNÉTICAS
+
+A preocupação constante com a segurança de dados digitais é algo crucial para evitar transtornos envolvendo o ataque de hackers aos dispositivos eletrônicos. Devido a constante imersão online no trabalho e na vida pessoal, estamos constantemente expostos a diversas ameaças digitais, as quais evoluem na mesma velocidade que as medidas de segurança digital.
+
+Confira na lista abaixo algumas dessa ameaças que podem afetas a segurança e privacidade dos dados.
+
+° SPAM
+° Spyware
+° Worms
+° Phishing
+° Botnets
+° Ransomware
+
+AULA 4 - CONCEITOS INICIAIS - VIRUS WORMS PHISHING CAVALO DE TROIA | PARTE 2
+
+Ameaças cibernéticas atuais
+
+No mundo digital, estamos constantemente expostos a diversas ameaças que visam comprometer nossa segurança e privacidade. Nesta aula, vamos explorar algumas dessas ameaças, incluindo SPAM, Spyware, Worms, Phishing, Botnets, Rootkits, Cavalo de troia, Ransomware e Engenharia Social. Vamos entender o que são, como funcionam e ver exemplos reais de sua utilização.
+
+SPAM
+
+é uma mensagem eletrônica não-solicitada enviada em massa, para um grande número de pessoas. Na sua forma mais popular, um SPAM consiste em uma mensagem de correio eletrônico com fins publicitários, que promove produtos ou serviços duvidosos ou fraudulentos. Hoje em dia podemos ter esses spams por whatsapp e telegram
+
+O SPAM pode ser considerado uma forma de poluição digital, pois ocupa espaço nos servidores de e-mail, consome recursos da rede e do computador e atrapalha a comunicação legítima entre os usuários. Além disso, o SPAM pode ser usado como um meio para disseminar vírus, spywares ou outras formas de malware.
+
+Um exemplo de SPAM, é quando recebemos uma mensagem eletrônica que oferece remédios para emagrecer ou de produtos digitais prometendo ganhos financeiros imediatos e altos. Essas mensagens costumam usar títulos chamativos e falsos testemunhos para atrair a atenção dos destinatários. Ao clicar no link da mensagem, o usuário pode ser direcionado para um site falso que solicita dados pessoais ou financeiros ou que instala um programa malicioso no seu computador.
+
+SPYWARE
+
+O termo Spyware, combinação em ingês de "spy"(espião) e "software"(programa), é um tipo de programa malicioso que monitora as atividades do usuário no computador ou na internet sem conhcimento e consentimento do usuário. O objetivo do Spyware é coletar informações pessoais ou comerciais do usuário, como hábitos de navegação, histórico de sites visitados, senhas, números de cartão de crédito e dados bancários, por exemplo.
+
+O Spyware pode ser instalado no computador de diversas formas, como por meio de downloads de programas ou arquivos infectados, por meio de anexos ou links de e-mails suspeitos ou por meio de brechas de segurança nos sistemas operacionais ou nos navegadores. Uma vez instalado, o Spyware pode enviar as informações coletadas para terceiros sem autorização do usuário.
+
+Um exemplo de Spyware é o Keylogger, que registra tudo o que o usuário digita no teclado do computador. Esse tipo de Spyware pode capturar senhas, números de cartão de crédito e outras informações confidenciais. Essas informações podem ser usadas para roubar a identidade do usuário, realizar compras online indevidas ou acessar contas bancárias.
+
+WORMS
+
+O termo Worms(vermes, em português), na área da informática, é semelhante a um vírus, porém com um diferencial: é um programa autorreplicante. Enquanto um vírus infecta um programa e necessita deste programa hospedeiro para se propagar, o Worms é um programa completo e não precisa de outro para se propagar.
+
+Worms pode ser projetados para tomar ações maliciosas após infectar um sistema, além de se autorreplicar. Ele pode deletar arquivos em um sistema, enviar documentos por e-mail, consumir a banda larga da rede ou abrir portas para outros malwares entrarem.
+
+Um exemplo de Worms é o Conficker, que foi descoberto em 2008 e infectou milhões de computadores em todos o mundo. Esse Worms explorava uma vulnerabilidade no sistema operacional Windows e se espalhava pela rede local ou pela internet. Ele criava uma rede de computadores zumbis(botnet) que podia ser controlada remotamente por hackers para realizar ataques distribuídos de negação de serviço(DDoS) ou enviar SPAM.
