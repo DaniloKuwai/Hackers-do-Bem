@@ -131,3 +131,55 @@ O termo Worms(vermes, em português), na área da informática, é semelhante a 
 Worms pode ser projetados para tomar ações maliciosas após infectar um sistema, além de se autorreplicar. Ele pode deletar arquivos em um sistema, enviar documentos por e-mail, consumir a banda larga da rede ou abrir portas para outros malwares entrarem.
 
 Um exemplo de Worms é o Conficker, que foi descoberto em 2008 e infectou milhões de computadores em todos o mundo. Esse Worms explorava uma vulnerabilidade no sistema operacional Windows e se espalhava pela rede local ou pela internet. Ele criava uma rede de computadores zumbis(botnet) que podia ser controlada remotamente por hackers para realizar ataques distribuídos de negação de serviço(DDoS) ou enviar SPAM.
+
+PHISHING
+
+O termo Phishing, derivação em inglês de "fishing"(pescaria), é uma técnica de fraude eletrônica que usa a engenharia social para enganar os usuários e obter informações confidenciais ou vantagens financeiras. O objetivo do Phishing é se passar por uma pessoa ou instituição confiável e induzir o usuário a fornecer dados pessoais ou financeiros, como senhas, números de cartão de crédito, dados bancários etc.
+
+Um exemplo de Phishing é o e-mail que se passa por um banco e solicita ao usuário que atualize os seus dados cadastrais ou que confirme uma transação suspeita. Ao clicar no link do e-mail, o usuário é direcionado para um site falso que imita o site do banco e pede que ele digite os seus dados bancários. Esses dados são enviados para os criminosos que podem usá-los para acessar a conta bancária do usuário e realizar saques ou transferências indevidas.
+
+Final vídeo.
+
+Caso um computador ou redes de computadores de uma empresa não apresente um sistema sólido de segurança, as portas ficam abertas para a entrada de vírus. Existem outros três tipos muito comuns que são combatidos constantemente. Botnet, Rootkit e o Cavalo de Troia.
+
+Segue explicação de cada um
+
+Botnet: É uma rede de computadores infectados por um malware que permite que um cibercriminoso controle-os remotamente.
+
+Rootkit: É um tipo de malware furtivo e perigoso que permite que cibercriminosos acessem o seu computador sem você saber
+
+Cavalo de Troia: É um programa malicioso que se disfarça de algo legítimo ou desejável para enganar os usuários e induzi-los a instalá-lo no seu computador.
+
+VÍDEO AULA 4 - CONCEITOS INICIAIS - VÍRUS WORMS PHISHING CAVALO DE TROIA | PARTE 3
+
+BOTNET
+
+O termo botnet, combinação em inglês de "bot" (robô) e "net", é uma rede de computadores infectados por um malware que permite que um cibercriminoso controle-os remotamente. O objetivo de uma botnet é usar os recursos dos computadores infectados para realizar atividades maliciosas, como ataques de negação de serviços, propagação de códigos maliciosos, coleta de informações, envio de spam ou camuflagem da identidade do atacante. 
+
+Uma botnet é formada quando um malware infecta um computador e o transforma em um "zumbi" ou "bot", que passa a receber comandos de um servidor central controlado por um cibercriminoso. Esse servidor pode enviar instruções para os bots realizarem ações individuais ou coordenadas com outros bots da mesma rede. Os usuários dos computadores infectados geralmente não percebem que fazer parte de uma botnet, pois o malware costuma se esconder e consumir poucos recursos.
+
+Um exemplo de botnet é o Mirai, que foi descoberto em 2016 e infectou milhares de dispositivos conectados á internet, como câmeras de segurança, roteadores e gravadores digitais. Esse botnet foi usado para realizar um dos maiores ataques de negação de serviço da história, que afetou sites como Twiter,Netflix,Spotify e Amazon.
+
+ROOTKIT
+
+O termo rootkit, combinação em inglês de "root"(raiz) e "kit"(conjunto), é um tipo de malware furtivo e perigoso que permite que cibercriminosos acessem o seu computador sem você saber. O objetivo de um rootkit é obter acesso privilegiado ao sistema operacional e modificar os seus arquivos e processos para ocultar a sua presença e a de outros malwares.
+
+Um rootkit pode ser instalado no computador por meio de downloads de programas ou arquivos infectados, por meio de anexos ou links de e-mails suspeitos ou por meio da explocaração de vulnerabilidades nos sistemas operacionais ou nos aplicativos. Uma vez instalado, o rootkit pode enviar as informações coletadas para terceiros sem autorização do usuário, abrir portas para outros malwares entrarem ou criar um "backdoor" permanente para que o cibercriminoso possa retornar posteriormente.
+
+Um exemplo de rootkit é o Stuxnet, que foi descoberto em 2010 e infectou centenas de computadores em instalações nucleares no Irã. Esse rootkit foi projetado para sabotar o funcionamento das centrífugas usadas para enriquecer urânio, alterando a velocidade de rotação e causando danos físicos. Esse roolkit era tão sofisticado que conseguiu se espalhar por dispositivos removíveis e se adaptar a diferentes sistemas operacionais.
+
+CAVALO DE TROIA
+
+Um cavalo de troia (do inglês, Trojan horse, ou simplemente, trojan)é um programa malicioso que se disfarça de algo legítimo ou desejável para enganar os usuários e induzi-los a instalá-lo no seu computador. O nome vem da lenda grega antiga do cavalo de madeira que os gregos usaram para invadir a cidade de Troia.
+
+Um cavalo de troia pode ter diferentes formas e funções, mas geralmente ele serve como uma porta de entrada para outros malwares ou para cibercriminosos que querem acessar o seu computador sem o seu conhecimento e consentimento. Um cavalo de troia pode roubar as suas informações pessoais ou financeiras, danificar ou apagar os seus arquivos, alterar as configurações do seu sistema, monitorar as suas atividades online ou usar os recursos do seu computador para fins maliciosos.
+
+Um exemplo de Cavalo de Troia, é o famoso Zeus, que foi descoberto em 2007 e infectou milhões de computadores em todo o mundo. Que tinha como objetivo roubar as credenciais bancárias dos usuários, como senhas, números de cartão de crédito ou dados de contas. Ele utilizava técnicas como: keyloggers(que registram tudo o que o usuário digita no teclado), screenloggers(que capturam imagens da tela do usuário)ou web injects(que modificam as páginas web dos bancos para inserir campos falsos).
+
+Ransomware é um tipo de malware, ou software malicioso, que bloqueia os dados ou o dispositivo da vítima e ameaça mantê-los bloqueados, ou pior, a menos que a vítima pague um resgate. O termo vem da junção das palavras em inglês "ransom"(resgate) e "software"(software).
+
+O ransomware geralmente exibe uma mensagem na tela do dispositivo da vítima, informando que os dados ou o sistema foram sequestrados e exigindo um pagamento para liberá-los. O pagamento costuma ser solicitado em criptomoedas, como Bitcoin, que são difíceis de rastrear. O valor do resgate pode variar de alguns dólares a milhões de dólares, dependendo do tipo de ataque e do perfil da vítima.
+
+
+WannaCry foi um dos maiores e mais devastadores ataques de ransomware da história, que ocorreu em 2017. Ele se aproveitou de uma vulnerabilidade no sistema operacional Windows para se espalhar rapidamente por mais de 150 países, afetando cerca de 200 mil computadores em oranizações públicas e privadas. Ele exigia entre 300 e 600 doláres para desbloquear os sistemas das vítimas. Estima-se que ele tenha causado prejuízos de cerca de 4 bilhões de dólares.
+
