@@ -170,11 +170,13 @@ Um exemplo de rootkit é o Stuxnet, que foi descoberto em 2010 e infectou centen
 
 CAVALO DE TROIA
 
-Um cavalo de troia (do inglês, Trojan horse, ou simplemente, trojan)é um programa malicioso que se disfarça de algo legítimo ou desejável para enganar os usuários e induzi-los a instalá-lo no seu computador. O nome vem da lenda grega antiga do cavalo de madeira que os gregos usaram para invadir a cidade de Troia.
+Um cavalo de troia (do inglês, Trojan horse, ou simplemente, trojan é um programa malicioso que se disfarça de algo legítimo ou desejável para enganar os usuários e induzi-los a instalá-lo no seu computador. O nome vem da lenda grega antiga do cavalo de madeira que os gregos usaram para invadir a cidade de Troia.
 
 Um cavalo de troia pode ter diferentes formas e funções, mas geralmente ele serve como uma porta de entrada para outros malwares ou para cibercriminosos que querem acessar o seu computador sem o seu conhecimento e consentimento. Um cavalo de troia pode roubar as suas informações pessoais ou financeiras, danificar ou apagar os seus arquivos, alterar as configurações do seu sistema, monitorar as suas atividades online ou usar os recursos do seu computador para fins maliciosos.
 
 Um exemplo de Cavalo de Troia, é o famoso Zeus, que foi descoberto em 2007 e infectou milhões de computadores em todo o mundo. Que tinha como objetivo roubar as credenciais bancárias dos usuários, como senhas, números de cartão de crédito ou dados de contas. Ele utilizava técnicas como: keyloggers(que registram tudo o que o usuário digita no teclado), screenloggers(que capturam imagens da tela do usuário)ou web injects(que modificam as páginas web dos bancos para inserir campos falsos).
+
+RANSOWARE
 
 Ransomware é um tipo de malware, ou software malicioso, que bloqueia os dados ou o dispositivo da vítima e ameaça mantê-los bloqueados, ou pior, a menos que a vítima pague um resgate. O termo vem da junção das palavras em inglês "ransom"(resgate) e "software"(software).
 
@@ -183,3 +185,12 @@ O ransomware geralmente exibe uma mensagem na tela do dispositivo da vítima, in
 
 WannaCry foi um dos maiores e mais devastadores ataques de ransomware da história, que ocorreu em 2017. Ele se aproveitou de uma vulnerabilidade no sistema operacional Windows para se espalhar rapidamente por mais de 150 países, afetando cerca de 200 mil computadores em oranizações públicas e privadas. Ele exigia entre 300 e 600 doláres para desbloquear os sistemas das vítimas. Estima-se que ele tenha causado prejuízos de cerca de 4 bilhões de dólares.
 
+ENGENHARIA SOCIAL
+
+Engenharia Social é um conjunto de técnicas que visa manipular ou enganar as pessoas para que elas realizem alguma ação que favoreça um ataque cibernético. O termo vem da analogia com a engenharia, que usa princípios científicos para construir ou modificar algo.
+
+A engenharia Social se baseia na exploração das emoções, da curiosidade, da confiança ou da ingenuidade das pessoas, que são consideradas o elo mais fraco da segurança da informação. A Engenharia Social pode usar vários meios de comunicação, como e-mails, telefonemas, mensagens instantâneas, redes sociais ou sites falsos.
+
+Um exemplo, Hackers conseguiram os dados salariais dos funcionários da Sony por meio de um ataque de engenharia social que envolveu o envio de e-mails falsos que se passavam por entidades legítimas, no caso a Apple. Os e-mails continham links ou anexos maliciosos, que instalaram malwares nos computadores do funcionários da Sony. Os mawares permitiram aos hackers acessar e roubar cerca de 100 terabytes de dados internos da empresa. incluindo dados salariais, passaportes, números e senhas de cartões de crédito, senhas sociais, reclamações internas e dados médicos de empregados.
+
+Esses são alguns dos tipos mais comuns de ataques cibernéticos que podem afetar o seu computador ou a sua segurança online. Eles podem ter diferentes objetivos e formas de infecção, mas todos eles podem causar danos ou prejuízos para pessoas e organizações. É essencial estarmos cientes dessas ameaças e adotarmos medidas preventivas, como manter sistemas e programas atualizados, utilizar antivírus confiáveis, evitar clicar em links suspeitos e nunca fornecer informações pessoais ou financeiras em sites não confiáveis. Proterger-se é fundamental para garantir a segurança e privacidade no mundo digital em constante evolução.

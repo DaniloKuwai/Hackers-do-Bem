@@ -1,0 +1,70 @@
+Boas práticas de Cibersegurança
+
+Nós aprendemos até aqui que existem muitas brechas e lacunas que podem facilitar o acesso de hackers nos sistemas, através de vírus e outras técnicas de ataque. Para que essas ameaças digitais tenham pouco impacto no dia a dia é importante seguir algumas boas práticas que podem ser muito úteis para garantir nossa segurança digital.
+
+Segurança
+
+A segurança de dados digitais abrange várias dimensões e é crucial para proteger diversos fatores, como: privacidade;integridade;disponibilidade e a reputação de nossos dados pessoais ou até mesmo os dados sensíveis de uma empresa.
+
+Algumas estratégias de proteção de dados digitais são essenciais. 
+
+Senhas fortes:
+
+Usar senhas fortes e únicas. As senhas devem ser compostas por letras maiúsculas e minúsculas, números e símbolos, e ter no mínimo oito caracteres.
+
+Atualizar os sistemas e os aplicativos. As atualizações dos sistemas operacionais e dos aplicativos contêm correções de bugs e vulnerabilidades que pode sem exploradas por hackers.
+
+Instalar um antivírus. Um antivírus é um software que detecta e elimina programas maliciosos que podem infectar os dispositivos e comprometer os dados.
+
+VÍDEO
+
+Aula 5 - Como se proteger Noções de boas práticas | parte 1
+
+Ameaças digitais
+
+As ameaças digitais são os riscos e perigos que existem no ambiente online, como ataques de hackers, vírus, malware, phishing, ransomware, roubo de dados e fraudes. Essas ameaças podem afetar a segurança, a privacidade e a integridade das informações pessoais e profissionais, bem como causar danos financeiros, operacionais e reputacionais.
+
+Para se proteger das ameaças digitais, é preciso ter consciência dos riscos e das boas práticas de cibersegurança. A conscientização é o processo de educação e sensibilização das pessoas sobre os conceitos, as normas e as medidas de proteção no ambiente digital. A conscientização é fundamental para criar uma cultura de segurança cibernética nas organizações e na sociedade.
+
+As boas práticas de cibersegurança são as ações e os comportamentos que visam prevenir, detectar e responder às ameaças digitais. Algumas das boas práticas são:
+
+Usar senhas fortes e únicas. As senhas devem ser compostas por letras maiúsculas, números e símbolos, e ter no mínimo oito caracteres. Além disso, devem ser diferentes para cada conta ou serviço online, e trocadas periodicamente. Para facilitar o gerenciamento das senhas pode-se usar um gerenciador de senhas confiável.
+
+Ativar a autenticação de dois fatores. A autenticação de dois fatores é uma camada extra de segurança que exige um código ou um dispositivo adicional que exige um código ou um dispositivo adicional para confirmar a identidade do usuário ao acessar uma conta ou serviço online. Essa medida dificulta o acesso indevido por terceiros, mesmo que a senha seja comprometida.
+
+Atualizar os sistemas e os aplicativos. As atualizações dos sistemas operacionais e dos aplicativos contêm correções de bugs e vulnerabilidades que podem ser exploradas por hackers. Por isso, é importante manter os dispositivos e os programas sempre atualizados com as verões mais recentes.
+
+Instalar um antivírus. Um antivírus é um software que detecta e elimina programas maliciosos que podem infectar os dispositivos e comprometer os dados. É importante instalar um antivírus confiável em todos os dispositivos que se conectam á internet, como computadores, notebooks, smarthphones e tablets.
+
+Não clicar em links ou anexos suspeitos. Os links ou anexos suspeitos podem conter vírus, malware ou pshishing, que são tentativas de enganar o usuário para obter informações pessoais ou financeiras. Antes de clicar em um link ou abrir um anexo, é preciso verificar a origem, o conteúdo e a veracidade da mensagem.
+
+Usar redes WI-FI seguras. As redes Wi-Fi públicas ou abertas podem ser interceptadas por hackers que podem roubar ou alterar os dados transmitidos. Por isso é recomendável usar redes Wi-Fi seguras, com criptofrafia e senha, ou usar uma VPN(rede privada virtual) para proteger a conexão.
+
+Fazer backup dos dados. O backup dos dados é a cópia de segurança das informações armazenadas nos dispositivos físicos ou na nuvem. O backup permite recuperar os dados em caso de perda, roubo ou dano dos dispositivos, ou em caso de ataque cibernético. O backup deve ser feito regularmente e armazenado em um local seguro.
+
+Final vídeo
+
+COMO IMPLEMENTAR?
+
+A etapa de implementação das boas práticas de segurança é outro ponto importante e sensível desse processo. É aqui que o usuário ou a empresa leva em contaos diversos fatores valiosos, e essas etapas precisam ser seguidas.
+
+Confira na lista abaixo algumas dessas etapas de implementação.
+
+° Avaliar o nível de exposição às ameaças digitais.
+° Escolher as medidas de proteção adequadas.
+° Implementar e monitorar as medidas de proteção escolhidas.
+
+Vídeo
+
+Aula 5 - Como se proteger Noções de boas práticas | Parte 2
+
+Para implementar as boas práticas de cibersegurança, é preciso seguir algumas etapas básicas:
+
+Avaliar o nível de exposição às ameaças digitais. É preciso identificar quais são os dados mais sensíveis e valiosos que se possui ou se acessa online, quais são os dispositivos que se usa para se conectar à internet, quais são os serviços ou aplicativos que se utiliza online e quais são os riscos mais prováveis e mais graves que se pode enfrentar.
+
+Escolher as medidas de proteção adequadas. É preciso selecionar as medidas de proteção que atendam às necessidades e aos objetivos de cada pessoa ou organização, considerando fatores como o tipo de atividade online, o orçamento diponível, o nível de complexidade da rede, o grau de confiança nos provedores e o tipo de resultado esperado.
+
+Implementar e monitorar as medidas de proteção escolhidas. É preciso instalar e configurar as medidas de proteção nos dispositivos e nas contas online, seguindo as melhores práticas recomendadas pelos fornecedores ou pelos especialistas. Além disso, é preciso monitorar e revisar continuamente as medidas de proteção, verificando se elas estão funcionando corretamente, atualizando-as regularmente e resolvendo quaisquer problemas que possam surgir.
+
+As ameaças digitais são os riscos e perigos que existem no ambiente online, como ataques de hackers, vírus, malware, phishing, ransomware, roubo de dados, fraudes e outros. Para se proteger das ameaças digitais, é preciso ter consciência dos riscos e das boas práticas de cibersegurança. A conscientização é o processo de educação e sesibilização das pessoas sobre os conceitos, as normas e as medidas de proteção no ambiente digital. A conscientização é fundamental para criar uma cultura de segurança cibernética nas organizações e na sociedade.
+
