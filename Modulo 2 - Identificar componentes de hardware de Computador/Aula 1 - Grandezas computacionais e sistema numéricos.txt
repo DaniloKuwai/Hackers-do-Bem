@@ -1,0 +1,115 @@
+O desenvolvimento da informática começa quando há necessidade de desenvolvimento de máquinas que facilitem a resolução de cálculos complexos de forma rápida.
+
+GRANDEZAS COMPUTACIONAIS
+
+As grandezas computacionais são os diiversos aspectos que caracterizam a capacidade e o desempenho dos sistemas de computadores. Através dessas grandezas é possível entender a eficiência e a eficpacias de dispositivos,redes e algoritmos no universo da computação.
+
+VÍDEO
+
+AULA 1 - GRANDEZAS: SISTEMAS NUMÉRICOS | PARTE 1
+
+O desenvolvimento da informática começa quando há a necessidade de desenvolvimento de máquinas que facilitem a resolução de cálculos complexos de forma rápida.
+
+Teoria de Boole - Lógica utilizada pelos computadores
+(lógica utilizada em eletrônica digital)
+Máquina de Turing - Base teórica para computação.
+ENIAC - Primeiro computador digital
+
+Bit e Byte
+
+Bit(b)
+
+° Binary Digit;
+° Menor unidade computacional 0 ou 1;
+° 1948 - Surge o termo Bit;
+
+
+Byte(B)
+° Conjunto de 8 bits;
+° Quantidade necessária para representar caracteres;
+
+Na aula é apresentada a tabela ASCII Code - Character to Binary
+
+Conforme foi crescendo as unidades de medidas dentro da computação, megabytes, kilobytes, megabytes, gigabyte, foi necessário definir uma nomenclatura, essa nomenclatura foi definido pela:
+
+NBRIEC80000-13 DE 10/2016
+
+Define 2 nomenclatura para grandezas computacionais:
+
+SI - Sistema Internacional: Base 10
+
+- Kilo, Mega, Tera...
+
+IEC - Prefixo Binário: Base 2
+
+- Kibi, Mebi, Tebi...(Kilo Binary, Mega Binary)
+
+Tabela:
+
+Sistema Internacional      |  Sistema Binário
+
+Nome      | Simb.    | Valor | Nome      |  Simb.  |  Valor
+
+Byte      |  B       |  1    | Byte      |   B     |   1
+kilobyte  |  KB      | 1000B | kibbyte   |  KIB    | 1024B
+megabyte  |  MB      | 1000KB| Mebibyte  |  MiB    | 1024KiB
+gigabyte  |  GB      | 1000MB| gibibyte  |  GiB    | 1024MiB
+terabyte  |  TB      | 1000GB| tebinyte  |  TiB    | 1024GiB
+petabyte  |  PB      | 1000TB| pebibyte  |  PiB    | 1024TiB
+exabyte   |  EB      | 1000PB| exbibyte  |  EiB    | 1024OiB
+zeltabyte |  ZB      | 1000EB| zebibyte  |  ZiB    | 1024EiB
+yottabyte |  YB      | 1000ZB| yobibyte  |  YiB    | 1024ZiB
+
+Além das grandezas de armazenamento, temos também grandezas de velocidade de transmissão principalmente usadas para definir velocidades de links de internet e copia de arquivos
+
+Internet:
+
+- Kbps - Kilo bit por segundo
+- Mbps - Mega bit por segundo
+
+Transferência de Arquivos:
+
+- KB/s - Kilo Byte por segundo
+- MB/s - Mega Byte por segundo
+
+Geralmente quando vamos comprar um link, exemplo de 200mb por segundo, quando vai baixar um arquivo da internet não está baixando 200mb, isso porquê na transferência do download, ele mede por megabytes por segundos e não mega bits, fazendo uma conta rápida, para saber o máximo que vai chegar de download fazer 200 / 8 = 25mb por segundo.
+
+um outro exemplo de 700Mega o máximo que vai ser atingido no download seria 87,5 mb
+
+Algumas outras grandezas utilizadas em Computação são:
+
+Hertz (Hz) - Frequência; -> utilizado bastante em processador, velocidade de processamento que ele consegue fazer por segundo
+Volt  (V)  - Tensão; -> com a tensão medimos 2 coisas. Alimentação da fonte em corrente alteranada, e tensão contínua(usado em eletrônica)
+Ampére(A)  - Corrente; -> A capacidade de fornecer energia
+Watt  (W)  - Potência; -> Quanto que aquela fonte suporte de equipamentos, o total usando aquela fonte.
+
+Algumas outras grandezas em computação são:
+
+- Pixel - Resolução de imagens/tela/câmeras;
+
+Quanto mais pontos, mais definido fica a imagem
+Mede também o tamanho da tela, por exemplo se você tem uma tela full hd você tem uma tela 1920 x 1080 pixels, se você multiplicar você tem 2megapixels
+
+- DPI - Dots per Inch (pontos por polegada);
+
+- em mouse;
+- em tela;
+
+TELA:
+
+é usado para medir a qualidade da tela, ele vai usar para medir a quantidade de pontos que existem na tela, por exemplo, 
+
+72 ppi se for procurar você vai enxergar os pontos na tela 
+
+porém com 
+
+300 ppi não dá para ver
+
+
+MOUSE:
+
+Em mouse é a quantidade de movimento que você precisa fazer para a seta do mouse movimentar, é medido por dpi também.
+
+ 
+
+
