@@ -232,15 +232,27 @@ o resultado da divisão é os resultados da sobre da direita para a esquerda
 
 
 
+também podemos utilizar a tabela para fazer a conta, é um pouco mais complexo, mais funciona da seguinte forma:
+
+125 é maior que 128? não então completa com 0 na tabela
+
+64 é menor que 125? é, então é 64 + 32(próximo campo da tabela) = 96, 96 é menor que 125? é, então pego o resultado 96 + 16(próximo número após o 32, 96 + 16 = 112, 112 é menor que 125? é, então 112 + 8 = 120 é menor que 125? é, então 120 + 4 = 124, 124 é menor que 125? é, então preciso pegar 124 + 2 = 126, 126 é menor que 125? não, então não preciso do 2, então completo com 0 a tabela, e seguindo na tabela como não precisamos do 2 pulamos para o próximo e não somamos o 2, ai 124 + 1 = 125, 125 é maior que 125? se é menor ou igual completa com 1.
 
 
+----------------------------------
 
+Praticando
 
+Pergunta 1:
 
+1. Em que ano o ENIAC, o primeiro computador eletrônico, foi concluído e tornou-se operacional?
 
+R: 1945
 
+2. Quantos bits compõem um byte em sistemas de computação?
 
+R: 8 bits
 
+3. Qual a principal unidade de medida para indicar a potência de uma fonte de alimentação de computador?
 
-
-
+R: Watt
