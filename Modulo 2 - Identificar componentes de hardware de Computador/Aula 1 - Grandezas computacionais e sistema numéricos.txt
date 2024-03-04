@@ -111,5 +111,136 @@ MOUSE:
 Em mouse é a quantidade de movimento que você precisa fazer para a seta do mouse movimentar, é medido por dpi também.
 
  
+VÍDEO 
+
+AULA 1 - GRANDEZAS: SISTEMAS NUMÉRICOS | PARTE 2
+
+Existem diversos tipos de bases numéricas e cada uma possui uma função.
+
+Exemplos:
+
+Base 10 (Decimal)
+
+Base 16 (Hexadecimal)
+
+Base 2 (Binário)
+
+As bases possuem alguns "numéricos" que podem ser utilizados
+
+Base 10 - 0,1,2,3,4,5,6,7,8,9
+
+Base 2 - 0,1
+
+Base 16 - 0,1,2,3,4,5,6,7,8,9,A(10),B(11),C(12),D(13),E(14),F(15)
+
+Para converter binários e hexadecimal para decimal, utilizamos a Notação Posicional
+
+Representação do número 6238 em notação posicional
+
+6238 = 6000 + 200 + 30 + 8
+6238 = 6x1000 + 2x100 + 3x10 + 8x1
+6238 = 6x10³ + 2x10² +3x10¹ + 8x10°
+
+-------------------------------------------------------------------------
+para colocar o numero ao quadrado, usei a tabela asc alt + 253
+para colocar o numero elevado a 1, usei a tabela asc alt + 251
+para colocar o numero elevado a 0, usei a tabela asc alt + 248
+para colocar o número elevado ao cubo, usar a tabela asc alt + 252
+
+para mais consultas entrar em:
+
+https://pplware.sapo.pt/truques-dicas/dica-saiba-inserir-simbolos-a-partir-do-seu-teclado/
+
+-------------------------------------------------------------------------
+
+Explicando as conversões:
+
+primeiro pegamos o número e transformamos em milhares,centenas,dezenas e unidade.
+ 
+Após isso multiplicamos pelas bases representadas, por mil = 1000, por centena = 100, por dezena = 10 e por unidade = 1.
+
+após isso, como são 4 casas vamos elevar cada número da esquerda para a direita, colocando o primeiro número ao cubo(6), depois colocamos ao quadrado(2), depois colocamos 3 elevado a 1(3) e 8 elevado a zero.
+
+essa é a conversão de hexadecimal para decimal, sempre utilizando a base 10
+
+Convertendo Binário para decimal temos:
+
+11110001² = 1x2^7 + 1x2^6 + 1x2^5 + 1x2^4 + 0x2^3 + 0x2^2 + 0x2^1 + 1x2^0
+11110001² = 1x128 + 1x64 + 1x32 + 1x16 + 0x8 + 0x4 + 0x2 + 1x1
+11110001² = 128 + 64 + 32 + 16 + 1
+11110001² = 241
+
+Utilizando tabela
+
+128 | 64 | 32 | 16 | 8 | 4 | 2 | 1
+ 1    1     1    1   0   0   0   1
+
+a forma mais prática é utilizando a tabela, onde tem 1 eu vou somando, exemplo
+
+128 + 64 + 32 + 16 o 8,4 e 2 não faço a soma e o 1 eu faço.
+
+o resultado é 241
+
+Conversão de Base 16 para 2
+
+HEXADECIMAL |  BINÁRIO
+
+    0           0000
+    1           0001
+    2           0010
+    3           0011
+    4           0100
+    5           0101
+    6           0110
+    7           0111
+    8           1000
+    9           1001
+    A           1010
+    B           1011
+    C           1100
+    D           1101
+    E           1110
+    F           1111
+
+Convertendo Hexadecimal para binário:
+
+obs: O 16 é para baixo igual elevado porém para baixo:
+
+FACA16 = F(1111) A (1010) C(1100)A (1010)
+FACA16 = 1111 1010 1100 1010
+
+B42E16 = B(1011) 4(0100)2(0010)E(1110)
+B42E16 = 1011 0100 0010 1110
+
+Para converter de decimal para binário você precisa ir dividindo o número por 2
+
+125 / 2
+ 1    62 / 2
+      0    31 / 2
+            1   15 / 2
+               1    7 /  2
+                    1    3 /  2
+                         1    1            125 = 111101
+
+o resultado da divisão é os resultados da sobre da direita para a esquerda
+
+1 1 1 1
+
+128 | 64  | 32  |  16  |  8  |  4  |  2  | 1
+
+0     1      1     1      1     1     0    1
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
