@@ -1,0 +1,83 @@
+Os computadores são formados por conjuntos de peças construídas e instaladas ao redor de um microprocessador. Esses componentes, que compões o hardware, são responsáveis por diferentes funções que permitirão a execução de atividades diversas.
+
+Rapidamente vamos conhecer os componentes de um computador:
+
+° Processador
+° Placa-Mãe
+° Cooler
+° Memória RAM
+° HDD/SSD
+° Fonte
+° Placas Offboard
+
+VÍDEO
+
+AULA 2 - PLACA MÃE E MEMÓRIA BIOS | PARTE 1
+
+PROCESSADOR
+
+Processador, também chamado de CPU(Central processing Unit)é a peça responsável por processar dados e transformar em informação.
+
+Algumas características do processador em geral:
+
+Frequência de Processador(Velocidade, clock) Medido em hertz,define a capacidade do processador em processar informações ao mesmo tempo.
+
+Núcleos: Existem processadores com um núcleo ou com vários núcleos na mesma peça. Ele é necessário também para a velocidade além da frequência e o clock, para trabalhar em conjunto, quanto mais núcleos possuir mais rápido é a velocidade de processamento de informações.
+
+Cache: A memória Cache é um tipo de memória auxiliar, que faz diminuir o tempo de transmissão de informações entre o processador e outros componentes.
+
+além desses 3 parametros existem as arquiteturas de processadores:
+
+Arquitetura de Processadores
+
+X86(32 bits) - CISC((Complex Instruction Set Compute)Instruções Complexas) - Processador de 32 bits tem limite de 4GB de memória RAM
+
+X64(64 bits) - CISC
+
+ARM(Normalmente nos processadores da Apple) - RISC(Reduced Instruction Set Computer(Instruções Reduzidas)) por isso normalmente são mais rápidos por conta da sua arquitetura.
+
+Não existe uma ser melhor que a outra, na verdade depende da sua aplicação para que cada uma vai ser utilizado.
+
+PRINCIPAIS FABRICANTES
+
+AMD
+
+Ryzen[3,5,7 e 9]
+
+° Zen - serie 1000
+° Zen + - Serie 2000
+° Zen2 - Série 3000
+° Zen3 - Série 5000
+° Zen4 - Série 7000
+
+Intel
+
+Core I (I3,I5,I7 e I9) [1º~13° geração]
+
+Apple
+
+Linha M
+
+Além das linhas temos as nomeclaturas
+
+AMD Ryzen 7 3700x             Intel Core I7 11700F
+
+X - Alta performance          K - Alto desempenho/Desbloqueado
+G - Vídeo Integrado           F - Sem vídeo integrado
+U - Baixo consumo             S - Edição Especial
+3D - Empilhamento de Cache    U - Eficiência energética
+
+AMD Ryzen 7 3700x
+o 7 quer dizer que é da 7º geração e quando começa com 3 quer dizer que é da série 3000, e o 700 é a variação da linha 3000 e o x quer dizer que é de alta performance.
+
+Intel Core I7 11700F
+
+o I7 quer dizer que ele pertence a linha i7 o 11000 da 11º geração e tem a variação 700 também, e o F quer dizer sem vídeo integrado.
+
+Pode também existir 2 siglas juntas, por exemplo KS que ele tem alto desempenho é desbloqueado para overclock e também é uma edição especial.
+
+Cooler vs Processador
+
+Cooler apenas para refrigerar o processador, não tem muito que dizer sobre a questão.
+
+
