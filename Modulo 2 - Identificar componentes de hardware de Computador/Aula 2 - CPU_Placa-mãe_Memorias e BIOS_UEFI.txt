@@ -80,4 +80,250 @@ Cooler vs Processador
 
 Cooler apenas para refrigerar o processador, não tem muito que dizer sobre a questão.
 
+CUIDADOS
+
+Na hora de comprar um processador, verifique a compatibilidade com os demais componentes e performance que irá necessitar.
+
+Cuidado com a potência do processador vs placa-mãe e cooler.
+
+Manuseio com cuidado - Pinos e circuitos
+
+FIM VÍDEO
+
+PLACA MÃE
+
+A placa mãe é uma peça fundamental em uma máquina e é responsável por facilitar a comunicação entre os diferentes componentes de um computador. Ela é composta por diferentes partes que, em conjunto, trabalham na integração e coordenação de hardware, possibilitando o funcionamento harmonioso do sistema como um todo.
+
+VÍDEO
+
+Aula 2 - Placa mãe e memória BIOS | Parte 2
+
+COMPONENTES DE UM COMPUTADOR
+
+Processador
+
+Placa-Mãe
+
+Cooler
+
+Memória RAM
+
+HDD/SSD
+
+Fonte
+
+Placas Offboard
+
+Placa-Mãe
+
+É a placa principal onde são conectados todos os componentes do computador
+
+Muitos componentes passaram a vir "onboard nas placas-mãe mais recentes
+
+Mas existem muitos elementos "offboard" que ainda são bastante utilizados
+
+Ela que interliga todos os componentes para que o computador funcione.
+
+Componentes da Placa-mãe
+
+1- Socket - Processador
+2- Slot Memória
+3- Slot PCIe - PCIExpress tem o tamanho maior que é o X16 e o tamanho menor que é o X1
+4- Chipset
+5- Bateria BIOS/UEFI
+6- BIOS
+7- Conector 24 pinos - Energia
+8- Conectar 8 pinos - Energia CPU
+9- Conector SATA
+10- M.2 (SATA/NVMe)
+
+CHIPSETS
+
+Chipset:
+
+Intel: H610/B760/H770/Z790
+       
+       H510/B560/Z590
+
+Chipset    | Linhas PCIe  | SATA         |Overclock
+
+H610         12             4 SEM RAID     Não
+B760         14             4 RAID         Sim*
+H770         24             8 RAID         Sim*
+Z790         28             8 RAID         Sim
+ 
+
+
+AMD:  A620/B650/X670/A520/B550/X570
+
+Chipset    | Linhas PCIe  | SATA         |Overclock
+
+
+A620         32            4 RAID          Não
+B650         36            4 RAID          Sim
+X670         44            8 RAID          Sim
+
+* = alguns modelos não são todos
+
+
+SOCKETS
+
+Além do chipset estar vinculado ao processador, tem também o socket, tem que ver qual o socket da placa e se é compatível com o modelo do processador.
+
+FORMATOS
+
+ATX - são as placas maiores, normalmente tem 4 slots pci, geralmente vem 4 slots de memórias
+mATX - esse é o modelo da placa reduzida da ATX, normalmente vem com menos PCI normalmente 2 a menos.
+ITX - esse é o menor modelo, e normalmente só tem um slot pciexpress e 2 slots de memória
+
+CONSIDERAÇÕES
+
+Na escolha da placa mãe, se atente a compatibilidade com o processador, com a memória e com o tamanho  do gabinete
+
+Veja os recursos da placa mãe no site do fabricante e escolha o chipset conforme a necessidade de uso: EX. quantidade de USBs, slots M.2m possibilidade de overclock, suporte a RAID
+
+FIM VÍDEO
+
+Mémórias
+
+A memória de um computador é responsável por armazenar os dados de um sistema. Além disso, ela tem papel crucial quanto a velocidade de utilização e troca de dados de um computador.
+
+As memórias podem ser separadas em dois tipos:
+
+Não voláteis
+
+° ROM (PROMs, EPROMs,EEPROMs, Memória Flash)
+° Armazenamento em massa (Pendrive,SSD, HD)
+
+Voláteis
+
+° RAM (SIMM,DIMM,SDR,DDR,DDR2,DDR3,DDR4,DDR5,etc)
+° Cache(L1,L2,L3)
+° Vídeo(GDDR3,GDDR4,GDDR5,GDDR6,HBM,HBM2)
+
+VÍDEO
+
+AULA 2 - PLACA MÃE E MEMÓRIA BIOS | PARTE 3
+
+MEMÓRIAS
+
+Podem ser Não Voláteis(mantém informações mesmo sem energia):
+
+- ROM (PROMs, EEPROMs,Memória Flash)
+
+- Armazenamento em massa(Pendrive, SSD, HD) 
+
+Voláteis (Mais rápidas, não armazena informações quando estão sem energia)
+
+- RAM (SIMM,DIMM,SDR,DDR,DDR2,DDR3,DDR4,DDR5,etc)
+
+- Cache(L1,L2,L3)
+
+- Vídeo (GDDR3,GDDR4,GDDR5,GDDR6,HBM,HBM2)
+
+ROM - Read Only Memory - Memória somente de leitura
+
+- PROM - Programmable ROM - vem em branco e as pessoas conseguiam escrever programas nele
+- EPROM - Erasable PROM - próxima evolução, agora é possível escrever e apagar as informações
+- EEPROM - Electrically EPROM - próxima evolução, Consegue elétricamente apagar o chip, não é necessário mais a luz para apagar.
+- Flash - ultima evolução, eletronicamente consegue apagar a gravação.
+
+MEMÓRIA RAM
+
+Memória de Acesso Aleatório(Random Accesss Memory) - Memória primária em um computador. Muito mais rápido. Pega as informações do Disco e recebe e trabalha em conjunto com o processador.
+
+TIPOS DE RAM
+
+SIMM
+
+30 OU 72 vias
+4MB~32MB
+Pentium 1
+
+DIMM
+
+168 vias
+até 512 MB
+Pentium 3
+
+DDR 400MHz até 1GB - Pentium 4
+DDR2 1066MHz - até 8GB
+DDR3 - 18666MHz - até 16GB - 6º Gen Intel Core I
+DDR4 - 5333MHz até 64GB - 14º Gen Core I
+DDR5 - 8400MHz até 512GB - 13º Gen +
+
+Considerando todos os modelos de memórias de desktop, existem a sua versão SODIMM(Small Outline DIMM)
+
+Um ponto de atenção é para DDR3 pois há a variante DDR3L pois há a variante DDR3L 	que pode não ser compatível com o notebook.
+
+Ainda falando de memórias, temos as que são utilizadas pelas placas de vídeo, geralmente para trabalhos gráficos pesados como jogos, edição de vídeos e modelagem 3D utilizam muita memória e necessitam de velocidade.
+
+Sendo assim alguns modelos de memórias de vídeos pode dar um parâmetro de comparação entre os modelos
+
+GDDR3(Baseado no DDR2) - 1º placa GF FX5700 GDDR3(2004)
+GDDR5(Baseado no DDR3) - 1º placa Radeon HD 4770 (2009)
+GDDR5X- 1º placa GTX 1080(2016)
+GDDR6 - 1º placa RTX 2080(2018)
+GDDR6X - 1º placa RTX 3080 (2020) a escrita primeira se refere a primeira placa a utilizar essa memória
+HBM - 1º placa Radeon F9 Fury X (2015)
+HBM2 - 1º placa Radeon RX Vega 64 (2017)
+
+FIM VÍDEO
+
+VÍDEO
+
+AULA 2 | PLACA MÃE E MEMÓRIA BIOS | PARTE 4
+
+O QUE É BIOS?
+
+BIOS Basic Input Output System - é um chip na placa-mãe responsável por verificar todos os componentes do computador da inicialização.
+
+Mais atualmente temos a UEFI que vem substituindo a BIOS
+
+UEFI Unified Extensible Firmware Interface - é mais moderna e tem mais recursos que a BIOS tradicional.
+
+PROCESSO DE INICIALIZAÇÃO
+
+1. Computador é ligado no botão de power;
+
+2. CPU executa instruções de inicialização e envia para os registradores
+
+3. CPU acessa memória ROM onde está a BIOS/UEFI
+
+4. CPU executa a BIOS/UEFI
+
+5. BIOS/UEFI faz o POST> Se estiver tudo OK
+
+° Se ocorrer erros ou será exibido na tela ou será emitido beeps se o computador tiver um speaker interno(Código de Beep da BIOS)
+
+6. BIOS/UEFI carrega o Sistema Operacional na RAM
+
+POST
+
+Durante o POST(Power-On Self-Test) é verificado:
+
+POST resumindo ele mesmo vai se testar para ver se está ok.
+
+1. Processador
+2. Memória
+3. Placa de vídeo
+4. USBs conectadas
+5. Teclado
+6. Discos(HD,SSD ou pendrive)
+7. Relógio do sistema
+8. Se houve alteração
+
+Teclas de atalhos mais comuns para acessar a BIOS
+
+° ASRock: F2 ou DEL
+° ASUS: F2 ou DEL
+° Acer: F2 ou DEL
+° Dell: F2 ou F12
+° ECS: DEL
+° Gigabyte/Aorus: F2 ou DEL
+° HP: F10
+° Lenovo: F1,F2,FN+F2 ou Enter
+° MSI:DEL
+
+
 
