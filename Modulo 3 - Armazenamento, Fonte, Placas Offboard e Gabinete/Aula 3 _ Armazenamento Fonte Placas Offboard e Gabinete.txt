@@ -1,0 +1,310 @@
+Para que o computador funcione precisamos de softwares como sistemas operacionais, e os dados gerados e utilizados por esses softwares são armazenados em dispositivos como:
+
+° HDs (Hard Drives) - Discos Rígidos
+° Cds / DVDs / Blu-rays - Mídias Óticas removíveis
+° Pendrives / Cartões de Memória
+° SSDs
+
+VÍDEO 
+AULA 3 - ARQUITETURA DE HARDWARE | PARTE 1
+
+Para que o computador funcione precisamos de softwares como sistemas operacionais, e os dados gerados e utilizados por esses softwares são armazenados em dispositivos como:
+
+HDs (Hard Drives) - Discos Rígidos
+Cds / DVDs /Blu-rays - Mídias Óticas removíveis
+Pendrives / Cartões de Memória
+SSDs
+
+HD - Disco Rígido
+
+1. Discos mecânicos com motores e cabeças de leitura
+2. Gravação magnética
+
+Vantagens:
+
+° Custo por GB mais baixo
+° Longevidade
+
+Desvantagem
+
+° Velocidade de leitura e gravação
+° Baixa resistência e impactos
+
+CONEXÃO SATA(SERIAL ADVANCED TECHONOLOGY ATTACHMENT)
+
+Tipos de Conexão
+
+PATA - Parallel ATA
+SATA - Serial ATA
+
+Versões SATA
+
+SATA I (revisão 1.x) conhecida como SATA 1.5Gb/s - Mais ou menos 180MB de transferência
+SATA II(revisão 2.x), conhecida como SATA 3GB/s - perto de 375MB por segundo
+SATA III (revisão 3.x), conhecida como SATA 6GB/s - chega a 750MB por segundo
+
+Mídias Óticas
+
+CD - Compact Disc
+
+° Capacidade de 700MB
+° Principal uso - Música
+
+DVD - Digital Vídeo Disc
+
+° Capacidade de 4,7GB
+° Principal uso - Filmes
+
+Blu-ray
+
+° Capacidade de 25GB
+° Principal Uso - Filmes/Jogos
+
+FLASH
+
+Pendrives e Cartões de memória SD e micro SD
+
+Utilizam memória flash
+
+Velocidade e classes:
+
+Normal: classes 2,4,ou 6 velocidades de no máximo 12,5MB/s
+
+High speed: até 25MB/s
+
+UHS-I entre 50 ou 104MB/s - recomendado para cameras em 4k
+
+UHS-II: entre 156 ou 312MB/s - normalmente usado em cameras profissionais que gravam em 8k
+
+SSD
+
+Muita gente tem falado sobre SSDs, mas o que são?
+
+SSD - Solid State Drive - são armazenamentos que utilizam uma variante de memória flash para armazenar informações.
+
+E como o acesso é feito eletronicamente, a velocidade é muito maior do que o HD mecânico, onde o disco precisa fisicamente chegar na posição onde a informação está.
+
+TIPOS DE SSD
+
+SSD SATA 2.5 - formato de HD para notebook, como conexão SATA III - próximo de 10x a velocidade de um HD convencional
+
+Velocidade de transmissão em torno de 500MB/s sequencial.
+
+SSD M 2 SATA
+
+Velocidade iguais ao SSD SATA 500MB/s
+
+Mas tem vantagem de ser mais prático por não precisar de fonte nem cabo SATA
+
+SSD m 2 NvME(Non-Volatile Memory express)
+
+Gen 5 velocidades até 16000MB/s
+
+Gen 4 velocidades até 8000MB/s
+
+Gen 3 velocidades até 4000MB/s
+
+Diferença M.2 SATA VS NVMe
+
+° M Key - NVMe
+° B + M Key - SATA
+
+Temos também os tamanhos de NVMe
+
+2280 é o maior - 22 milímetros de largura e 80 de comprimento
+2260 é mediano - 22 milímetros de largura e 60 de comprimento
+2242 é um pouco menor - 22 milímetros de largura e 42 de comprimento
+2230 é o menor que tem - 22 milímetros de largura e 30 de comprimento
+
+FIM VÍDEO
+
+FONTE
+
+Fonte é o componente que vai receber a energia da tomada e converter para tensão de funcionamento do computador. As fontes são projetadas para converter a energia em uma corrente contínua, responsável pelo funcionamento dos diferentes componentes de um computador.
+
+VÍDEO
+
+AULA 3 - ARQUITETURA DE HARDWARE | PARTE 2
+
+FONTES DE ALIMENTAÇÃO
+
+Fonte é o componente que vai receber a energia da tomada e converter para tensão de funcionamento do computador.
+
+Existem vários padrões como:
+
+ATX(principal)
+
+a mais comum mais larga e não é comprida
+
+SFX
+
+mais achatada, qualquer coisa pesquisar imagens
+
+TFX
+
+mais comprida que o comum
+
+Padrões de Fontes de Alimentação
+
+Fonte Não modular
+
+você não consegue alterar nenhum tipo de entrada do cabo
+
+Fonte Semi Modular
+
+Tem alguns padrões de cabos diferentes que pode ser alterado
+
+Fonte Full Modular
+
+Geralmente mais caro, onde dá para desconectar e conectar todos os cabos da fonte, podemos alterar em todos os padrões
+
+TIPOS DE CONECTORES
+
+Floppy - usado em drive de 3/2
+SATA - energia do sata
+6 + 2 Pinos PCIe - são 6 pinos fixos e 2 móveis, esse é do PCIexpress, tomar cuidado porquê ele encaixa igual o 4 + 4 que é da cpu
+4 + 4 pinos CPU -  esse é solto de 4 em 4 (pode ter até 16 pinos)
+16-pin 12vHPWR - é um pino para placas de vídeos de alto desempenho
+24 pinos ATX Placa Mãe - é o que alimenta a energia da fonte para a placa mãe.
+
+Qual Fonte eu preciso?
+
+Como saber qual fonte eu preciso?
+
+Preciso primeiro saber qual cada um dos componentes vai consumir:
+
+° Consumo CPU
+° Consumo GPU
+° Quantidade de Memória
+° Quantidade de Discos
+
+existe um site de Calculadora Fonte está no pdf
+
+Certificações das fontes (Como saber se a fonte é de qualidade ou não)
+
+Certificação 80 plus
+
+80 plus White
+80 plus bronze
+80 plus silver
+80 plus gold
+80 plus platinum
+80 plus titanium - é o melhor de todos
+
+O que essa certificação vai dizer
+
+
+
+Certificação      |  20% Carga    | 50% Carga    |100% Carga
+80 Plus White     |   80%         |     80%      |    80%
+80 Plus Bronze    |   82%         |     85%      |    82%
+80 Plus Silver    |   85%         |     88%      |    85%
+80 Plus Gold      |   87%         |     90%      |    87%
+80 Plus Platinum  |   90%         |     92%      |    89%
+80 Plus Titanium  |   92%         |     94%      |    90%
+
+
+Fonte              |  Eficiência    | Perda de energia
+Fonte sem PFC      | 50% a 65%      |   35% a 50%
+Fonte sem PFC Ativo| 80% a 99%      |   1% a 20%
+
+1000W = 100% vai gerar pelo menos 870W para alimentar o PC com selo Gold
+
+Como identificar se a fonte tem PFC ou não?
+
+só verificar se ele tem a chave de voltagem na fonte, de alterar de 110/220v se tiver ele não tem PFC.
+
+FIM VÍDEO
+
+Placas Offboard
+
+Atualmente muitos recursos como vídeo, som,rede com e sem fio e armazenamento estão integradas á placa-mãe e atendem grande parte dos usuários de computador, mas nem sempre o desempenho ou a capacidade desses recursos atendem determinados públicos. É ai que entram as placas offboard.
+
+VÍDEO
+AULA 3 - ARQUITETURA DE HARDWARE | PARTE 3
+
+PLACAS OFFBOARD
+
+Atualmente muitos recursos como vídeo, som, rede com e sem fio, armazenamento já estão integradas á placa-mãe e atendem grande parte dos usuários de computador, mas nem sempre o desempenho ou a capacidade desses recursos atendem determinados públicos. É ai que entram as placas offboad:
+
+° Maior desempenho
+° Mais recursos
+° Substituição de componentes com defeito
+
+GPU - PLACA DE VÍDEO
+
+GPU - Graphical Processing Unit - Unidade de processamento gráfico
+Intel - Linha ARC
+AMD - Linha RX
+NVIDIA - Linha RTX
+
+INTEL ARC
+
+
+Intel ARC     | A770       | A750   | A580    | A380   | A310
+Xe-core       | 32         | 28     | 24      | 8      | 6
+Graphics      | 2100MHz    | 2050MHz| 1700MHz | 2000MHz| 2000MHz
+Clock(GHz)
+Memory        | 16GB|8GB   |8GB     |8GB      |6GB     |4GB
+	      | GDDR6|GDDR6|GDDR6   |GDDR6    |GDDR6   |GDDR6
+
+A linha ARC da intel foi lançada em 2022 e chegou para concorrer com a AMD e NVIDIA que dominam o mercado.
+
+A placa A770 equivale a uma RTX3060/RTX3060TI para efeitos de comparação.
+
+AMD Radeon
+
+As placas Radeon existem a bastante tempo, nos últimos 10 anos foram essas as linhas lançadas pela empresa
+
+Ex de placas:
+
+RX7600 / RX7700XT / RX7800XT / RX7900GRE / RX7900XT /RX7900XTX
+
+NVIDIA
+
+Assim como a AMD RADEON, a NVIDIA esteve sempre presente na computação gráfica, desde 1995 possibilitando o desenvolvimento dos jogos 3D
+
+Ex de placas:
+
+RTX4060/RTX4060TI/RTX4070/RTX4070TI/RTX4080/RTX4090
+
+PLACAS DE SOM
+
+Além das placas de vídeo, alguns computadores precisam de placas de som com maiores recursos geralmente para uso em estúdios de gravação ou audiófilos.
+
+Uma das marcas mais conhecidas é a cretive com as placas Sound Blaster.
+
+Algums vantagens:
+
+° Maior qualidade de aúdio
+° Maior potência de áudio
+° Geralmente mais saídas de aúdio 5.1 ou 7.1
+
+PLACAS DE REDE
+
+Placas de rede com fio podem te ajudar a conseguir maior velocidade 1Gbps, 2,5Gbps ou até 10Gbps de conexão de rede e as sem fio te possibilitam velocidades de até 2Gbps Lembrando que isso são velocidade internas da rede, para acesso a internet depende do plano contratado.
+
+OUTRAS PLACAS
+
+Existem algumas outras placas como:
+
+Captura de vídeo;
+Adaptadores NVMe
+Adaptadores SATA
+Processadores de IA ou mineração
+
+FIM VÍDEO
+
+GABINETE
+
+O gabinete, desktop ou case é o componente em hardware que protege e organiza o hardware do seu PC(Personal Computer)
+
+Ele pode ter diversos formatos e tamanhos, mas existe uma classificação conforme tamanho da placa-mãe
+
+Tamanhos:
+
+° Full Tower(placas mãe até E-ATX ou XL-ATX)
+° MID Tower( até placas ATX)
+° Mini Tower (placas até mATX ou ITX)
+
+

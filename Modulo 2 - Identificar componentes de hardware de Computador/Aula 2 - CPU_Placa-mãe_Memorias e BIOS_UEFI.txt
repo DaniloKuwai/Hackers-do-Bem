@@ -326,4 +326,17 @@ Teclas de atalhos mais comuns para acessar a BIOS
 ° MSI:DEL
 
 
+Praticando aula 2
+
+1. Quais são as principais arquiteturas de processador para computadores atualmente?
+
+R: X64 (CISC) e ARM (RISC)
+
+2. Qual a função do Cooler de processador?
+
+R: Resfriar o processador
+
+3. Quais sãos os principais tamanhos de placa-mãe?
+
+R: ATX, mATX e ITX.
 
