@@ -307,4 +307,49 @@ Tamanhos:
 ° MID Tower( até placas ATX)
 ° Mini Tower (placas até mATX ou ITX)
 
+VÍDEO
+
+AULA 3 - ARQUITETURA DE HARDWARE | PARTE 4
+
+Gabinete
+
+O gabinete, desktop ou case é o componente em hardware que protege e organiza o hardware do seu PC(Personal Computer)
+
+Ele pode ter diversos formatos e tamanhos, mas existe uma classificação conforme tamanho da placa-mãe
+
+Tamanhos:
+
+° Full Tower(placas mãe até E-ATX ou XL-ATX)
+° Mid Tower(Até placas ATX)
+° Mini Tower (placas até mATX ou ITX)
+
+O que precisa ser verificado antes de comprar um gabinete?
+
+Na hora de comprar um gabinete precisamos verificar:
+
+° Tamanho da placa mãe;
+° Altura máxima do Cooler;
+° Tamanho máximo da GPU;
+° Tamanho máximo da Fonte;
+° Quantidade de Ventoinhas;
+° Airflow;
+° Estética
+
+FIM VÍDEO
+
+
+Perguntas próximo tópico
+
+1. Qual a velocidade média de um disco SATA SSD?
+
+R: 500MB/s
+
+2. Quais são os tipos de conectores M.2?
+
+R: M key (NVMe) e B + M Key (SATA)
+
+
+3. Em Fontes ATX, o cabo com pino 4+4 serve pra que?
+
+R: Alimentação auxiliar do processador (CPU).
 
