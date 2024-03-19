@@ -1,0 +1,122 @@
+Aula 4 - Instalação de SO
+
+Após a montagem de uma máquina, o próximo passo é a instalação de um sistema operacional. Existem diversos sistemas e maneiras para realizar essa instalação, dependendo da complexidade e características dos componentes.
+
+VÍDEO
+
+AULA 4 0 INSTALAÇÃO DE SO | PARTE 1
+
+Atualmente para criar uma mídia de instalação, utilizamos apenas o pen drive, utilizamos alguns softwares utilizáveis como:
+
+Ventoy2Disk x86
+
+https://www.ventoy.net/en/download.html
+
+Rufus
+
+https://rufus.ie/pt_BR/
+
+Outros programas:
+
+° LinuxLive USB Creator
+° YUMI - Multiboot USB Creator
+° GNOME Multi-writer
+
+Imagens dos Sistemas Operacionais
+
+- Windows 10 - https://www.microsoft.com/pt-br/software-downloads/windows10
+- Ubuntu 23.10 - https://ubuntu.com/downloads/desktop
+- Proxmox 8.0 - https://www.proxmox.com/en/downloads/proxmox-virtual-environment
+
+com a utilização do Ventoy2Disk x86
+
+em dispositivo selecionar onde está o pendrive, e clicar em instalar. Após a instalação vai criar uma unidade escrito ventoy, nele você pode colocar as imagens dos s.o.s baixados e copiar a colar nessa unidade criada.
+
+FIM VÍDEO
+
+VÍDEO
+
+AULA 4 - INSTALAÇÃO DE SO | PARTE 2
+
+Mostra apenas a instalação do windows
+
+FIM VÍDEO
+
+VÍDEO
+
+AULA 4 - INSTALAÇÃO DE SO | PARTE 3
+
+APENAS INSTALAÇÃO DO LINUX TAMBÉM
+
+FIM VÍDEO
+
+VÍDEO
+
+AULA 4 - INSTALAÇÃO DE SO | PARTE 4
+
+instalação proxmox
+
+Esse sistema serve mais para ser utilizada para máquina virtual. Dar um boot pelo pendrive com a imagem, vai cair na primeira tela de instalação, ir em advanced options -> Install Proxmox VE(Console Mode -r), na próxima tela é um termo de aceitar, dar um aceitar usando as teclas do teclado. Após isso escolher o disco que vai ser instalado, next -> selecionar, país, timezone e o padrão do teclado(brasileiro - portguês) -> Configurar senha do root e um e-mail caso tiver, se não tiver não precisa colocar nada -> colocar o host da máquina, ip /mascara pode colocar apenas 24, gateway e dns e dar um next -> após isso install, já vai fazer a instalação.
+
+para mexer nele vamos usar um navegador em outra máquina na rede, para montar uma máquina virtual, acessando o ip acessando a porta 8006
+
+colocar o usuário e a senha que cadastramos na instalação -> vai acessar a tela do proxmox
+
+para montar vamos do lado esquerdo e clicar em datacenter -> proxmox -> local -> ai na direita vai habilitar uma opção para imagem ISO e clicar em carregar e jogar a imagem que você quer que coloque e após isso clicar em carregar.
+
+Após carregar a imagem podemos lá no canto superior direito da tela clicar em criar VM ai vamos para as telas de configurações.
+
+guias:
+
+GERAL
+
+Colocar o nome da máquina virtual.
+
+SO
+
+colocar no campo a imagem ISO: a imagem que carregamos, a versão também escolhemos
+
+SISTEMA
+
+deixar padrão
+
+DISCOS
+
+o tipo do disco, colocar SATA e definir o tamanho que você vai colocar para usar essa máquina virtual
+
+CPU
+
+pode escolher quantos núcleos vão ser utilizados
+
+MEMÓRIA
+
+colocar o quanto de memória que vamos utilizar para essa máquina virtual
+
+REDE
+
+deixar padrão
+
+Após isso vai mostrar o geral de todas as configurações, vamos apenas dar um concluir, vai montar nossa máquina virtual do lado esquerdo.
+
+para começar a utilizar selecionar a máquina a ser utilizada e licar lá em cima em inicar
+
+ai vai inicar a instalação do sistema operacional que você colocar.
+
+FIM VÍDEO
+
+PROVA
+
+1. O que preciso para criar um pendrive bootável?
+
+R: Pendrive de pelo menos 8GB, Programa (Rufus, Ventoy, etc.) e Imagem do SO desejado.
+
+2. Sobre a Particionamento do Disco no Windows, qual cuidado devo ter?
+
+R: Verificar se o disco é o correto e se não há dados sem backup na partição.
+
+3. Na instalação do Ubuntu 23.10, o que acontece se eu escolher Experimentar Ubuntu?
+
+R: Irá fechar a tela e deixará você utilizar o sistema pelo pendrive.
+
+
+
