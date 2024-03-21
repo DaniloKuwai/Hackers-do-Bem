@@ -1,0 +1,150 @@
+A virtualização é o uso de software para criar uma camada sobre o hardware que permite que os elementos do computador sejam divididos em vários computadores virtuais, chamados de VMs.
+
+VÍDEO
+
+AULA 5 - VIRTUALIZAÇÃO | PARTE 1
+
+Virtualização tipo 1
+
+Conhecemos os hardwares do computador(parte física), mas para usar o computador precisamos de softwares(Parte Lógica)
+
+
+Aplicativos
+
+Sistema Operacional -> Interface
+                    -> Kernel
+
+Hardware 
+
+De onde surgiu a ideia de virtualização?
+
+Dependendo da máquina, grande parte do tempo os recursos são subutilizados, principalmente de servidores, ai veio a ideia de utilizar a virtualização. Ou seja, para não deixar um servidor que possui um hardware muito parrudo com pouca utilização, vou aproveitar o hardware dele e criar várias máquinas virtuais para usar melhor os recursos dele.
+
+Virtualização Tipo 1(Bare Metal)
+
+A virtualização simula o hardware com o Hypervisor, podendo assim distribuir recursos diferentes para as máquinas virtuais
+
+Alguns exemplos são: Proxmox, Hyper-V,KVM,ESXi
+
+
+GUEST Convidado
+
+|      VM1           | |      VM2           | |      VM3           |  
+|   Aplicativos      | |   Aplicativos      | |   Aplicativos      |
+|Sistema Operacional | |Sistema Operacional | |Sistema Operacional |
+
+HOST Hospedeiro
+
+|           Hypervisor          |
+|           Hardware            |
+
+
+Um exemplo de como podemos fazer a divisão dos recursos
+
+Vamos Supor que nós temos o seguinte hardware físico:
+
+CPU 8 núcleos
+RAM 16GB
+Armazenamento: 500GB
+
+
+Exemplo:
+
+VM1 (CPU 4 núcleos/ 8GB RAM / 150GB Armazenamento)
+VM2 (CPU 2 núcleos/ 4GB RAM / 50GB Armazenamento)
+VM3 (CPU 1 núcleo/ 2GB RAM / 250GB Armazenamento)
+
+A ideia surgiu porquê antigamente usavamos a separação da seguinte forma, tinhamos 3 servidores caros com hardwares parrudos. Por exemplo
+
+1° servidor
+
+CPU: 8 núcleos
+RAM: 16GB
+Disco: 500GB
+
+Esse era só servidor para banco
+
+2° servidor
+
+CPU: 8 núcleos
+RAM: 16GB
+Disco: 500GB
+
+Esse era só para domínio ou um aplicativo para hospedagem de site
+
+3° Servidor
+
+CPU: 8 núcleos
+RAM: 16GB
+Disco: 500GB
+
+Esse era só para armazenmento de pastas da rede
+
+E por isso surgiu a ideia de juntar 3 máquinas diferentes(virtuais) em uma mesma máquina, as vantagens disso:
+
+Menor consumo de energia
+Menor gasto com Hardware
+Menos espaços em datacenters
+
+FIM VÍDEO
+
+VÍDEO
+
+AULA 5 - VIRTUALIZAÇÃO | PARTE 2
+
+O tipo 2 é menos otimizado, no modelo 1 ele tem o hadware e o hypervisor no tipo 2 temos 3 camadas
+
+O hardware -> em cima dele temos o S.O. instalado -> e após isso temos o Hypervisor e depois temos as máquinas virtuais instaladas no S.O.
+
+por conta disso temos uma perda de desempenho por conta disso
+
+uma utilização que temos atualmente é o dropbox
+
+Vantagens:
+
+Teste de diferentes sistemas
+Economia em Hardware
+Praticidade
+
+Exemplos:
+
+- Virtualbox
+- VMware player
+- QEMU(para linux)
+
+Na aula ele explica como criar máquina virtual com o virtual box
+
+Outro conceito novo é a questão de:
+
+Hypervisor vs Container
+
+Container
+
+| Aplicativo 1 |  | Aplicativo 2 |  | Aplicativo 3 |
+
+|                 Sistema Container                |
+|                 Sistema Operacional              |
+|                 Hardware                         |
+
+a diferença é que temos as camadas 
+
+hardware -> Sistema operacional -> e em cima do sistema operacional temos o sistema de container instalado também.
+
+
+FIM VÍDEO
+
+PROVA AULA 5 - VIRTUALIZAÇÃO
+
+1. O que é uma máquina virtual?
+
+R: É uma máquina gerada por software compartilhando recursos da máquina física, simulando um computador.
+
+2. Quais são as vantagens de se utilizar virtualização?
+
+R: Menor consumo de energia, menor gasto com hardware e menos espaço em datacentes.
+
+3. Qual a diferença entre Virtualização Tipo 1 e Tipo 2?
+
+R: A virtualização tipo 1 instala direto no hardware e virtualização tipo 2 instala no sistema operacional hospedeiro.
+
+
