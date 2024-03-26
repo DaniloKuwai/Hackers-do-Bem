@@ -1,0 +1,92 @@
+Quando desfrutamos dos benefícios da internet no mundo hoje em dia, como acesso instantâneio a um catálogo quase infinito de músicas, ou jogos online com pessoas em qualquer parte do planeta, ou até mesmo a resolução de problemas que antes eram complexos do nosso dia a dia, não imaginamos todo contexto durante a criação da internet na década de 1960.
+
+Desenvolvida por agências e financiada pelo Departamento de Defesa dos Estados Unidos, a internet deu seus primeiros passos no final da década de 1960, ainda somente em ambiente militar ou acadêmico. A disseminação da internet só ocorreu durante os anos 1980, com o surgimento da World Wide Web, e sua popularização aconteceu durante a década de 1990, com o surgimento dos primeiro navegadores.
+
+VÍDEO
+
+AULA 1 - HISTÓRIA DA INTERNET | PARTE 1
+
+Como é a internet atualmente?
+
+com ela podemos fazer diversas coisas hoje em dia
+
+Porém não foi criada com essa finalidade inicial
+
+o primeiro computador foi criado em 1945 0 Eniac - Eletronic Numerical Integrator and Computer
+
+° Os primeiros computadores (1945 a 1955)
+
+° Computadores trabalhavam com cartões perfurados
+
+° Entre 1955 a 1965, surge a segunda geração de computadores modernos;
+
+° Cada modelo de computador possuía seu próprio sistema operacional;
+
+° 1969 foi lançado o Unix;
+
+° Década de 70 o Unix é distribuido gratuitamente
+
+Após esse período foi lançado 2 sistemas operacionais com 2 divisões
+
+° Sistema operacionais Livre (Linux)
+
+° Sistemas Operacionais Proprietários(Windows)
+
+° 1993 - Lançamento do Windows
+
+Essa evolução veio por conta de uma necessidade militar
+
+° 1947 - Guerra Fria;
+
+° Darpa (defense advanced research projects Agency);
+
+° 1961 - Computação de dados;
+
+° 1962 - Conceito de Internet;
+
+FIM VÍDEO
+
+AULA 1 - HISTÓRIA DA INTERNET | PARTE 2
+
+O Grande avanço veio depois da guerra fria com a ARPAnet;
+
+° 1969 - ARPAnet;
+
+° 29/10/1969 - Primeira transmissão bem feita.
+
+° ARPAnet com apenas 4 nós
+
+° 1970 - ARPAnet consolidada;
+
+° 1971 - Primeiro e-mail.
+
+° 1974 - TCP/IP
+
+° 1985 - Internet Global
+
+° 1989 - World Wide Web
+
+° 1995 - Primeira Versão HTTP.
+
+Década de 90 chegam computadores nas casas das pessoas
+
+1997 - Lançamento do Google
+
+Década de 80 internet chega ao brasil
+
+1989 - RNP (Rede nacional de Pesquisas)
+
+Prova
+
+1. Qual evento marcante aconteceu no ano de 1997 na área de tecnologia e internet?
+
+R: Lançamento do Google 
+
+2. Quem é considerado o "pai da World Wide Web"? 
+
+R: Tim Berners-Lee 
+
+3. Qual evento marcou o início prático da história da internet? 
+
+R: A criação da ARPANET em 1969
+
