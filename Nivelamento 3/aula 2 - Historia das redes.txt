@@ -1,0 +1,79 @@
+Agora que começamos a entender o que é essa rede, você deve estar curioso para entender como chegamos a ela. E é justamente a história por trás do surgimento da rede de computadores que veremos nos próximos vídeos, entendendo quais foram os motivos que levaram a sua criação e como ela foi evoluindo até hoje, com o acesso à internet.
+
+
+Vídeo aula 2 - História das Redes | Parte 1 - Ínicio
+
+Comunicação antes dos computadores
+
+No século XIX, o telegrafo revolucionou a comunicação ao permitir a transmissão rápida de mensagens através de fios elétricos. Esse avanço teve um impacto significativo em áreas como o comércio e as operações militares. Posteriormente, no início do século XX, o rádio emergiu como uma forma de comunicação sem fio, possibilitando a transmissão de sinais por ondas eletromagnéticas. Essas inovações marcaram o início de uma era de comunicação instantânea.
+
+
+Evolução tecnológica com os primeiros computadores
+
+Mas não paramos por aí, a necessidade de se comunicar e processar cada vez mais informações culminaram também na própria criação do computador na metade do século XX.
+
+Mas nessa época os computadores eram gigantescos, ocupando salas inteiras.
+
+Evolução tecnológica com os primeiros computadores
+
+E com o tempo também foram evoluindo para algo cada vez menores e com maiores capacidades de processamento, fazendo com mais rapidez e precisão cálculos matemáticos que antes eram feitos manualmente por pessoas, que por não serem máquinas estavam mais suscetíveis a cometerem algum erro.
+
+
+Eventos do Século XX
+
+Porém por causa de eventos marcantes da história a do século XX, a evolução do próprio computador e das suas respectivas redes acabaram sendo bastante aceleradas.
+
+Mas quais foram esses eventos foram e quais as suas repercussões no desenvolvimento da Computação e suas redes, veremos no próximo vídeo...
+
+
+
+Vídeo aula 2 - História das Redes | Parte 1 - Fim
+
+Vídeo aula 2 - História das Redes | Parte 2 - Ínicio
+
+Implicações Éticas e Sociais do Desenvolvimento Tecnológico
+
+O desenvolvimento e a implementação de redes de computadores e outras tecnologias em contextos de guerra trazem consigo uma série de implicações éticas e sociais que merecem nossa atenção e reflexão:
+
+º Dualidade da Tecnologia
+º Impacto na Sociedade
+º Responsabilidade Ética
+
+
+Segunda Guerra Mundial
+
+Não Iremos adentrar em detalhes sobre a Segunda Guerra Mundia,até porquê não é o foco, mas é importante entender o contexto em que surgiu os primeiros computadores.
+
+Os computadores tiveram um papel fundamental na Segunda Guerra Mundial, com cálculos matemáticos que ajudaram a quebrar a criptografia da comunicação da Alemanha Nazista(Abordaremos com mais detalhes de como no módulo de Criptografia).
+
+Mundo pós Segunda Guerra Mundial
+
+Após o fim da Segunda Guerra Mundial com a vitória dos Aliados(França, Reino Unidos, Estados Unidos e União Soviética), houve uma divisão no mundo entre as duas superpotências, Estados Unidos e a União Soviética.
+
+Porém não houve um conflito armado entre essas potências e sim um conflito ideolófico, se deu início a chamada Guerra Fria.
+
+Guerra Fria
+
+Durante a Guerra Fria, ficaram marcado pela demonstração de força através da corrida armamentista(quem tinha a bomba mais potente) e também pela corrida espacial(quem tinha a melhor tecnologia).
+
+E é nesse contexto de fomento de tecnologia impulsionada pela Guerra Fria, é criada um novo modo de se comunicar através dos computadores.
+
+Problemas da Comunicação até então ....
+
+Hoje sabemos que a Guerra Fria não culminou de fato em ataques militares diretos entre as duas superpotências, mas na época era um medo real.
+
+E os EUA tinham uma grande preocupação com as suas de comunicações, pois era um modelo centralizado onde era ramificado para diversos pontos.
+
+O problema é que se o "Hub Central" fosse de alguma forma atacado, todos os demais pontos perderiam conexão.
+
+Problema de Comunicação até então...
+
+E pensando nisso, o Departamento de Defesa do Governo Americano teve como desafio criar uma rede que pudesse continuar a se comunicar, de forma descentralizada, ou seja, mesmo que algum ponto fosse atacado, a comunicação ainda continuaria funcionando.
+
+E a partir disso for criado a ARPANET.
+
+que é meio que o avô da nossa conhecida internet.
+
+Vídeo aula 2 - História das Redes | Parte 1 - Fim
+
+

@@ -1,0 +1,69 @@
+Aula 1 - O que é Redes | Parte 1
+
+-----------------------------------------------------------------------------
+
+Vídeo aula 1 - Início
+
+Primeiro o que é necessário para se comunicar?
+
+Para que as pessoas consigam se comunicar de forma eficaz que haja uma série de elementos fundamentais em jogo como:
+
+º As próprias pessoas que são a origem e destino dessa mensagem
+
+º um meio de comunicação seja ele verbal, escrito,gestual ou digital.
+
+º uma linguagem comum que ambos entendam.
+
+Mais para isso, não basta apenas existir um meio de comunicação, tem que existir uma comunicação que os dois lados entendam de ponta a ponta, por exemplo, não adianta ter um canal de comunicação e de um lado uma pessoa falar japones e do outro lado a pessoa só entende português.
+
+Mas como a minha mensagem está chegando até você?
+
+Se estivéssemos um de frente do outro, sentado em uma mesa a pouco metros de distância, você conseguiria ouvir a minha voz que está sendo propagada pelo ar, seu ouvido iria captar essa informação, o seu cérebro irá processa-la caso consiga entender a linguagem dessa comunicação, como por exemplo o idioma português.
+
+por exemplo na vídeo aula é explicado que caso a pessoa estivesse sentada na frente seria óbvio que a mensagem chega porquê estamos frente a frente, porém em uma vídeo aula só é possível essa comunicação graças a redes de computadores.
+
+e só é possível existir essa comunicação, com uma origem e um destino.
+
+
+
+Vídeo aula 1 - Final
+
+-----------------------------------------------------------------------------
+
+Aula 1 - O que é Redes | Parte 2
+
+Vídeo aula 1 - O que é Redes | Parte 2 - Início
+
+Redes não é importante, é essencial...
+
+Redes de computadores são essenciais nos dias de hoje porque facilitam a comunicaçãoo e o compartilhamento a comunicação e o compatilhamento de informações em uma escala global. As redes de computadores são fundamentais para o funcionamento de setores vitais da sociedade moderna, como saúde, educação, finanças e governança, garantindo a eficiência e a continuidade das operações em um mundo cada vez mais digitalizado e interconectado.
+
+
+Tudo está conectado
+
+O melhor exemplo que temos sobre redes de computadores é a própria Internet, onde possibilita a comunicação de qualquer pessoa com o mundo inteiro, de forma instantânea.
+
+E é através dela que você está acessando esse conteúdo nesse exato momento.
+
+Mas está conectado dessa maneira também pode haver seus riscos..
+
+A Interdisciplininaridade da Segurança em Redes
+
+Entender as redes de computadores não é apenas uma questão técnica; é também uma jornada interdisciplinar que abrange diversas áreas do conhecimento. A segurança das redes, um dos aspectos cruciais da nossa discussão, não se limita a entender os mecanismos técnicos, mas envolve uma compreensão profunda de várias outras disciplinas:
+
+º Criptografia
+º Direito Digital
+º Ética Hacker... 
+
+
+Nem todas as pessoas são bem-intecionadas
+
+Neste mundo também existem pessoas que buscam alguma forma de burlar, danificar, roubar ou prejudicar esse sistema de comunicação pelos mais diversos motivos, geralmente sendo eles financeiros.
+
+E como não é possível saber quem está do outro lado da rede, existe a necessidade de sempre proteger a própria rede e sua comunicação.
+
+E é por isso que precisamos entender como funciona tecnicamente Redes de computadores.
+
+Então ao longo desse curso iremos começar a nos aprofundar nos principais aspectos de uma rede de computadores para que assim tenhamos a capacidade de protegê-la da melhor maneira possível.
+
+Vídeo aula 1 - O que é Redes | Parte 2 - Fim

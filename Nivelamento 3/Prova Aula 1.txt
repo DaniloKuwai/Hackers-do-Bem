@@ -1,0 +1,11 @@
+1. Redes de computadores podem ser definidas como:
+
+dois ou mais dispositivos interconectados, que podem trocar informações entre si.
+
+2. Assinale a alternativa que apresenta uma rede de computadores.
+
+Internet. 
+
+3. Para um profissional de segurança da informação, qual é a importância de compreender o funcionamento da rede de computadores?
+
+Absolutamente essencial, pois o profissional de segurança da informação será responsável por manter a comunicação dessa rede segura. 
