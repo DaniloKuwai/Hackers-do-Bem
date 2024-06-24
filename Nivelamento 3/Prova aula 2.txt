@@ -1,0 +1,11 @@
+1. Qual rede militar dos Estados Unidos foi a base tecnológica para a criação da internet como a conhecemos hoje? 
+
+Arpanet.
+
+2. A necessidade de criar uma rede descentralizada e que não dependesse de apenas um nó central foi motivada por qual evento geopolítico?
+
+Guerra Fria.
+
+3. Assinale a alternativa correta a respeito do contexto histórico das redes de computadores. 
+
+A internet moderna possibilitou que qualquer pessoa com um computador conectado a ela tivesse alcance global. 

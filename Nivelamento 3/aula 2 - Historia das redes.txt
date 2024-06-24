@@ -74,6 +74,44 @@ E a partir disso for criado a ARPANET.
 
 que é meio que o avô da nossa conhecida internet.
 
-Vídeo aula 2 - História das Redes | Parte 1 - Fim
+Vídeo aula 2 - História das Redes | Parte 2 - Fim
 
+Vídeo aula 2 - História das Redes | Parte 3 - Ínicio
+
+Primórdios da Internet
+
+Com o desafio de criar uma rede descentralizada, o departamento de defesa dos Estados Unidos criaram a ARPANET. Ou seja, se cair um ponto dessa rede as demais vão continuar funcionando, por isso chamamos descentralizada.
+
+Inicialmente seu uso era restrito somente para fins militares e para pesquisa em poucas universidades.
+
+A primeira mensagem da ARPANET ocorreu somente em 1969
+
+A "Linguagem" das redes
+
+Para a construção da ARPANET é claro que foi necessário uma estrutura física, mas o grande diferencial foi o modo como os computadores conectados a essa rede se comunicavam.
+
+O protocolo TCP/IP trouxe uma perspectiva de como a transmissão possa ser feita.
+
+Não se preocupe, iremos explorar em mais detalhes os aspectos desse protocolo no decorrer do curso.
+
+Criação das primeiras "NETS"
+
+Com o sucesso da implementação do protocolo TCP/IP, a comunicação de forma descentralizada utilizando computadores começou a aumentar exponencialmente.
+
+Na época, a expansão ainda continuou restrita a militares e faculdades para trocas de informações sobre pesquisas.
+
+Foi somente na década de 1980 que a rede que antes restrita a militares e pesquisas científicas, começou a ser aberta para fins comerciais.
+
+E somente no final da década de 1980 para início da década de 1990, essas "Nets" até então separadas, foram conectadas e surgiu a "Internet".
+
+Internet nos dias de hoje
+
+A internet foi aberta ao público em geral a partir da década de 1990 e foi evoluindo até ao modo que conhecemos hoje.
+
+Ela evoluiu a tal ponto que hoje qualquer pessoa quando se conecta a Internet tem a possibilidade de conversar com qualquer pessoa no mundo de maneira instantânea.
+
+Vamos continuar a entender mais sobre como a Internet está nos dias de hoje nos próximos vídeos...
+
+
+Vídeo aula 2 - História das Redes | Parte 3 - Fim
 
