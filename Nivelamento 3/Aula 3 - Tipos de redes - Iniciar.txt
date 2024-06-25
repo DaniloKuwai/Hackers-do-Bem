@@ -1,1 +1,83 @@
-Iniciar
+Vídeo Aula 3 - Tipos de Rede | Parte 1 - Ínicio
+
+Computador é tudo igual?
+
+Já aprendemos que computador é feito por diversas peças como um processador, memória RAM, Disco rígido, periféricos e etc...
+
+Mas até mesmo computadores domésticos tem de diversas marcas, cores e tamanhos.
+
+Com Redes é a mesma coisa
+
+Apesar de seguir sempre o mesmo princípio, que é ter uma troca de comunicação entre dois equipamentos, isso pode ser feito de muitas formas diferentes.
+
+E iremos abordar os principais tipos e diferenças dessas redes.
+
+Wired X Wireless
+
+Iniciaremos explorando as diferenças mais evidentes, começando pelo tipo de meio de comunicação empregado para transmitir informações nesta rede, que pode ser:
+
+º Cabeada(Wired)
+º Sem Fio(Wireless)
+
+Abrangência Geográfica
+
+Outra forma que podemos classificar algumas redes são pelas suas abrangências Geográficas. Tem redes que são bem pequenas, como uma limitação de poucos metros até redes que abrange tamanhos globais.
+
+Essas diferenças iremos falar mais no próximo vídeo...
+
+
+Vídeo Aula 3 - Tipos de Rede | Parte 1 - Fim
+
+Vídeo Aula 3 - Tipos de Rede | Parte 2 - Início
+
+Tamanhos de Redes
+
+º PAN(Personal Area Network)
+
+º LAN(Local Area Network)
+
+º MAN(Metropolitan Area Network)
+
+º WAN(Wide Area Network)
+
+Vamos começar a explicação do menor para o maior
+
+Personal Area Network(PAN)
+
+É uma rede de área, normalmente de alcance muito pequeno, utilizada para conexão de dispositivos pessoais, como smartphones, laptops,tablets e dispositivos periféricos.
+
+Exemplos comuns de tecnologias PAN incluem Bluetooth e infravermelho.
+
+Local Area Network(LAN)
+
+É uma rede de área local que conecta dispositivos em uma área geográfica limitada, como uma casa,escritório, escola ou edifício.
+
+Ehternet e Wi-Fi são exemplos comuns de tecnologias usadas em LANs.
+
+Metropolitan Area Network(MAN)
+
+É uma rede de área metropolitana que cobre uma área geográfica maior do que uma LAN, como uma cidade(tamanho de KMS).
+
+Um exemplo desse tipo de conexão seria a comunicação entre a SEDE da empresa com as suas FILIAIS que ficam em cidades próximas.
+
+Wide Area Network(WAN)
+
+É uma rede de área ampla que abrange uma grande área geográfica, como um país, continente ou até mesmo globalmente.
+
+A internet é o exemplo mais prominente de uma WAN, mas também existem outras redes WAN privdas, como as redes de comunicação de empresas multinacionais e rede de telefonia celular.
+
+Como podemos enxergar tudo isso?
+
+Através de uma topologia de rede.
+
+Uma topologia de rede refere-se á estrutura física ou lógica pela qual os dispositivos de uma rede de computadores estão interconectados. Ela descreve como os nós, como computadores, servidores, roteadores ou outros dispositivos, estão dispostos e como se comunicam entre si.
+
+Por que é importante saber isso?
+
+Para um profissional de segurança da informação, é necessário compreender as bases e os tipos de redes para entender que cada uma delas tem suas características e entende-las é fundamental para conseguir protege-la de forma adequada.
+
+Iremos entender mais sobre o papel dos padrões nas comunicações nos próximos vídeos...
+
+
+Vídeo Aula 3 - Tipos de Rede | Parte 2 - Fim
+

@@ -1,0 +1,13 @@
+1. O tipo de rede que tem limitação geográfica de aproximadamente 100 metros, como uma casa ou um prédio, é conhecida como: 
+
+LAN (Local Area Network).
+
+2. Qual é a principal diferença entre redes wired e wireless?
+
+
+Redes wired são interligadas por meio de cabeamentos enquanto redes wireless são interligadas sem a necessidade de cabos.
+
+3. Qual o nome da representação gráfica geralmente utilizada como parte da documentação de rede?
+
+
+Topologia de rede.
