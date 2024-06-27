@@ -1,0 +1,121 @@
+Vídeo aula 4 - Padrões em comunicações de dados | Parte 1 - Ínicio
+
+Como nós estamos entendendo as aulas, é por conta do idioma que é falado em português, esse é o padrão que nós brasileiros entendemos
+
+Em redes é a mesma coisa
+
+Em redes de computadores temos o mesmo problema.
+
+Os dispositivos em uma rede também se comunicam utilizando "Idiomas".
+
+Só que esses "idiomas" em redes de computadores, são chamados de protocolos. E os protocolos como o idioma tem regras, os protocolos também tem regras
+
+Mas qual protocolo usar?
+
+Se organizar para que um grupo de 20 pessoas falem a mesma língua é uma coisa, outra é organizar que 2 milhões, 20 milhões, 200 milhões, 2 Bilhões falem a mesma língua, da mesma maneira, com os mesmos padrões de comportamento sempre que se for comunicar.
+
+Mas é esse desafio que surgiu em redes de computadores, como fazer todos os computadores do mundo falarem a mesma "língua"?
+
+
+Vídeo aula 4 - Padrões em comunicações de dados | Parte 1 - Final
+
+Vídeo aula 4 - Padrões em comunicações de dados | Parte 2 - Ínicio
+
+Qual protocolo utilizar?
+
+Cada um com o seu protocolo
+
+Em redes de computadores, existem diversos dispositivos que compõem essas redes, os quais serão detalhados mais adiante.
+
+No entanto, algum indivíduo ou empresa é responsável por esse equipamento e, sendo assim, pode configura-lo da maneira que considerar mais adequada,
+
+Inclusive a forma em que esses equipamentos se comunicam
+
+Hoje em dia, diversos dispositivos conversam entre si, mesmo sendo de marcas diferentes, graças a padronização do protocolo, porém antigamente para os dispositivos se comunicarem, tinham que ser todos e tudo da mesma marca, porquê cada um tinha uma forma de comunicação diferente
+
+Essa realidade era viável enquanto as comunicações de rede não passavam muito os tamanhos de LANs, onde cada corporação ou negócio tinha sua comunicação funcionando internamente com produtos de certo fabricante.
+
+Esse cenário começa a mudar com o crescimento das redes, onde havia a necessidade de se comunicar com diferentes fabricantes.
+
+Protocolo Aberto x Protocolo Proprietário
+
+Quando uma empresa faz o seu próprio método de comunicação é chamado de Protocolo Proprietário.
+
+Isso significa que somente os equipamentos da empresa que criou esse protocolo pode utilizá-lo e seu código não é aberto para terceiros.
+
+Mas quando o protocolo não é feito por uma empresa, mas sim por organizações reguladoras(ISO),tendo o seu código aberto para terceiros, isso é chamado de Protocolo Aberto.
+
+Necessidade de Padronização
+
+Para que não houvesse mais problemas de comunicação entre diferentes fabricantes, organizações como a ISO(Organização Internacional de Normalização) e a IEEE(Instituto de Engenheiros Eletricistas e Eletrônicos) começaram a desenvolver padrões abertos para que fossem seguidos, independente do fabricante. Foi assim que surgiu os famosos Modelo OSI e o Protocolo de Comunicação TCP/IP, que já aprendemos ser a base de como a funciona a Internet hoje.
+
+
+Modelos OSI e TCP/IP
+
+Não iremos entrar em detalhes técnicos sobre o modelo OSI e o protocolo TCP/IP em si, isso será abordado extensamente nos próximos módulos.
+
+O objetivo aqui é para que vocês consigam compreender o motivo de eles existirem.
+
+
+
+Vídeo aula 4 - Padrões em comunicações de dados | Parte 2 - Final
+
+Vídeo aula 4 - Padrões em comunicações de dados | Parte 3 - Inicio
+
+Como utilizar o modelo OSI?
+
+Primeiro vamos entender o que é isso.
+
+Modelo OSI é um modelo teórico que baseia a comunicação de dados em uma rede de computadores em camada, sendo que cada camada é responsável por uma tarefa.
+
+OSI MODEL
+
+application
+presentation
+session
+transport
+network
+data link
+physical
+
+TCP/IP MODEL
+
+application
+transport
+internet
+network access
+
+O modeloo TCP/IP segue exatamente a mesma ideia, só que agregando algumas funções antes separadas no modelo OSI, sendo que o modelo OSI fica separada em 7 camadas enquanto o modelo TCP/IP fica separada em 4 camadas(Alguns dividem em 5 camadas apenas na literatura, porém não tem diferença do de 4 camadas).
+
+Mas o que diferencia os dois é que o TCP/IP, além de ser um modelo, é também um protocolo de comunicação, ou seja, é como a comunicação de fato acontece na prática.
+
+Portanto é preciso entender a diferença entre Modelo e Protocolo nesse contexto de comunicação em rede.
+
+Modelo é algo apenas teórico, onde ele não é necessariamente aplicado na prática.
+
+obs: O modelo OSI nunca chegou a funcionar na prática, diferente do modelo tcp/ip que virou um protocolo porquê funciona é usado até hoje.
+
+Protocolo é um conjunto de regras e padrões que definem como será realizada a comunicação.
+
+Uma grande dúvida que geralmente surge é essa:
+
+"Se o modelo OSI é teórico, então para que ele serve?"
+
+O modelo OSI pode ser uma excelente ferramenta de troubleshooting!
+
+Um exemplo do cotidiano seria a famosa pergunta de quando ligamos para resolver um problema com o provedor de Internet:
+
+"Conferiu se o roteador está ligado?"
+"Já reiniciou o equipamento?"
+"O cabo da Internet está conectado ao aparelho?"
+
+E porquê o pessoal do primeiro nível faz essa pergunta, porquê quando estruturamos nossos pensamentos em camadas nós somos mais assertivos naquele problema. Esse modelo de estrutura veio do modelo OSI
+
+Além do conhecimento técnico, é necessário que um profissional de segurança da informação consiga resolver problemas e encontrar falhas.
+
+E estruturar o seu pensamento em camadas ajuda e muito a encontrá-los.
+
+E vamos aplicar esse pensamento também para os tipos de equipamentos que compõem essa rede, que iremos abordar nos próximos vídeos..
+
+
+Vídeo aula 4 - Padrões em comunicações de dados | Parte 3 - Final

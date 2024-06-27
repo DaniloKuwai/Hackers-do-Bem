@@ -1,0 +1,13 @@
+1. Assinale a alternativa que apresenta o objetivo de padronizações como os modelos OSI e TCP/IP dentro de redes de computadores. 
+
+Permitir que a comunicação dentro de uma rede de computadores possa ocorrer independentemente do fabricante dos dispositivos.
+
+2. Qual é a diferença entre os modelos OSI e TCP/IP? 
+
+
+O modelo OSI é uma estrutura conceitual de como os dispositivos de rede trocam informações enquanto o TCP/IP é também um protocolo de comunicação em uma rede.
+
+3. Por que é importante conhecer o modelo OSI mesmo que ele seja somente teórico?
+
+
+Porque o modelo OSI pode ser utilizado como ferramenta de troubleshooting para resolver problemas que envolvam comunicação. 
