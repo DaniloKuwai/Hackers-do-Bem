@@ -1,0 +1,14 @@
+1. Qual dispositivo tem como principal função realizar o bloqueio de tráfego de rede e permitir somente os pacotes autorizados?
+
+Firewall. 
+
+2. O roteador é um dispositivo que atua em qual camada do modelo OSI?
+
+
+Camada 3 – rede.
+
+3. Qual dispositivo de rede deixou de ser utilizado por ser apenas um repetidor de sinais elétricos nas portas e gerar ruído desnecessário na rede? 
+
+
+Hub.
+

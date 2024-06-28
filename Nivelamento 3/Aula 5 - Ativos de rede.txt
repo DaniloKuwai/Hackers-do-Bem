@@ -1,0 +1,127 @@
+Vídeo Aula 5 - Ativos de Redes | Parte 1 - Ínicio
+
+Diferentes tipos de "computadores"
+
+Já abordamos durante essa jornada que existem diferentes tipos de computadores pessoais, que tem diversos tamanhos, cores, modelos e etc...
+
+Mas uma rede de computadores não é formada apenas por computadores como o público em geral conhece
+
+Equipamentos de rede
+
+Esses "computadores diferentes" são os chamados equipamentos de rede ou dispositivos de redes.
+
+Normalmente classificamos esses dispositivos em duas categorias:
+
+º Ativos de Redes
+º Passivos de Redes
+
+Passivos de Redes
+
+Os passivos de redes são associados aos meios físicos de comunicação.
+
+Eles são chamados de passivos pois não possuem a capacidade de interagir com os dados trafegados, tem como única função o transporte deles.
+
+Entraremos em mais detalhes nos passivos de redes em outro momento, agora iremos detalhar os ativos de redes.
+
+São chamados de passivos, porquê eles não tem a capacidade de decidir para onde vai o dado se bloqueia ou não ele simplesmente executa o que é ordenado.
+
+Ativos de Redes
+
+Os ativos de redes são associados a equipamentos que são interconectados através dos passivos de rede.
+
+Eles são chamados de ativos pois possuem a capacidade de interagir com os dados trafegados, necessitando de equipamentos mais complexos para processar e armazenar esses dados.
+
+Principais ativos de Redes
+
+Os principais ativos de redes são:
+
+º Hub
+
+º Switch
+
+º Roteador
+
+º Firewall
+
+º Servidores
+
+Detalharemos cada um deles no próximo vídeo
+
+
+Vídeo Aula 5 - Ativos de Redes | Parte 1 - Fim
+
+Vídeo Aula 5 - Ativos de Redes | Parte 2 - Inicio
+
+Hub
+
+O hub é um equipamento de rede antigo que já não é mais utilizado nas redes atuais por estar obsoleto, mais tinha como função ser um agregador de dispositivos.
+
+O seu funcionamento está associado á camada 1 do modelo OSI.
+
+Isso significa que o equipamento é apenas um repetidor de sinais elétricos através de suas portas. Isso acaba gerando tráfego desnecessário na rede.
+
+Switch
+
+O switch é um equipamento de rede que substitui a função do hub, de agregar os dispositivos dentro de uma mesma rede.
+
+A vantagem do switch em relação ao hub é que ele somente encaminha o tráfego para as portas conectadas ao seu destino, evitando a criação de tráfego desnecessário.
+
+Por ter essa inteligência maior que o hub, o switch é associado á camada 2 do modelo OSI.
+
+Roteador
+
+O roteador é um equipamento que estão mais acostumados de ouvir pois cada pessoa tem um dentro de suas casas.
+
+O roteador é um equipamento que tem a função de encaminhar pacotes entre diferentes redes lógicas.
+
+Logo podemos imaginar que o roteador funciona como uma espécie de ponte, que na sua casa é da sua rede doméstica para a Internet.
+
+É importante perceber que roteador não é somente os equipamentos que se tem em suas casas.
+
+No ambiente corporativo, os roteadores são equipamentos bem mais robustos, que tem como função encaminhar pacotes entre as redes.
+
+O roteador é um dispositivo associado á camada 3 do modelo OSI.
+
+
+
+Vídeo Aula 5 - Ativos de Redes | Parte 2 - Fim
+
+Vídeo Aula 5 - Ativos de Redes | Parte 3 - Ínicio
+
+Firewall
+
+O termo firewall talvez seja o conceito mais famoso quando é mencionado o tema de segurança da informação.
+
+O firewall, sendo ele físico ou virtual, tem a capacidade de bloquear ou liberar tráfego de rede baseado em uma lista de permissão.
+
+Portanto, ele funciona como uma espécie de segurança que fica na porta de um evento. Só é liberado para acessar o evento caso se tenha o seu nome na lista.
+
+Por esse tipo de comportamento, um firewall de rede geralmente é associado á camada 4 do modelo OSI. Porém vale ressaltar que também existem firewalls com capacidade de analisar aplicações, que nesse caso seriam associados a camada 7 do modelo OSI.
+
+Uma analogia legal é como se fosse um segurança que fica na porta, por exemplo a pessoa vai tentar entrar, ele vai ver se a pessoa está na lista, ou se ele segue as regras para acessar a festa.
+
+
+Servidores
+
+Portanto, de forma simplificada, um servidor possui as mesmas funcionalidades que um computador comum, mas se diferencia pela maior capacidade de processamento, memória e armazenamento.
+
+Assim, é possível classificar os servidores como dispositivos da camada 7 no modelo OSI, uma vez que eles interagem desde o nível mais fundamental, que é o dos bits, até os serviços da camada de aplicação.
+
+como serviços de compartilhamentos, serviço de dhcp, entre outros serviços.
+
+Se os servidores atuam em todas as camadas, por que então existe dispositivos que atuam somente em determinadas camadas? Não seria melhor ter sempre um servidor que faz tudo?
+
+Essa é uma pergunta interessante pois apesar de fazer funções que um roteador faz, que é encaminhar pacotes, o servidor não é focado nisso.
+
+Por que equipamentos de rede são importantes?
+
+Então é fundamental que tenhamos também equipamentos que tenham função específicas para executar a sua função com eficiência.
+
+Apesar de um servidor possuir a capacidade de rotear dados, é mais adequado utilizar um roteador para realizar essa função, pois todos os seus recursos são focados em rotear pacotes, enquanto em um servidor, os recursos serão divididos para diversas outras tarefas.
+
+Temos equipamentos específicos para garantir maior eficiência nas tarefas, por exemplo em um ambiente corporativo o fluxo de demanda é muito alto, e para isso cada um tem sua função.
+
+
+
+
+Vídeo Aula 5 - Ativos de Redes | Parte 3 - Fim
